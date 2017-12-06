@@ -1,0 +1,19 @@
+PRESIDENT 1956
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,New Hampshire,19561104,N/A,BELKNAP,County,"13,038","9,902","Eisenhower, Dwight D.",Incumbent,"3,131","Stevenson, Adlai E. II",Challenger,States Rights,5,"Uncommitted, NULL",Challenger,N/A,"6,771",R,75.95,24.01,.04,.00,75.98,24.02,,,
+President,New Hampshire,19561104,N/A,CARROLL,County,"8,816","7,527","Eisenhower, Dwight D.",Incumbent,"1,281","Stevenson, Adlai E. II",Challenger,States Rights,8,"Uncommitted, NULL",Challenger,N/A,"6,246",R,85.38,14.53,.09,.00,85.46,14.54,,,
+President,New Hampshire,19561104,N/A,CHESHIRE,County,"18,170","12,585","Eisenhower, Dwight D.",Incumbent,"5,574","Stevenson, Adlai E. II",Challenger,States Rights,11,"Uncommitted, NULL",Challenger,N/A,"7,011",R,69.26,30.68,.06,.00,69.30,30.70,,,
+President,New Hampshire,19561104,N/A,COOS,County,"17,338","11,465","Eisenhower, Dwight D.",Incumbent,"5,871","Stevenson, Adlai E. II",Challenger,States Rights,2,"Uncommitted, NULL",Challenger,N/A,"5,594",R,66.13,33.86,.01,.00,66.13,33.87,,,
+President,New Hampshire,19561104,N/A,GRAFTON,County,"21,081","15,609","Eisenhower, Dwight D.",Incumbent,"5,466","Stevenson, Adlai E. II",Challenger,States Rights,6,"Uncommitted, NULL",Challenger,N/A,"10,143",R,74.04,25.93,.03,.00,74.06,25.94,,,
+President,New Hampshire,19561104,N/A,HILLSBOROUGH,County,"81,528","45,248","Eisenhower, Dwight D.",Incumbent,"36,234","Stevenson, Adlai E. II",Challenger,States Rights,46,"Uncommitted, NULL",Challenger,N/A,"9,014",R,55.50,44.44,.06,.00,55.53,44.47,,,
+President,New Hampshire,19561104,N/A,MERRIMACK,County,"30,774","22,060","Eisenhower, Dwight D.",Incumbent,"8,711","Stevenson, Adlai E. II",Challenger,States Rights,3,"Uncommitted, NULL",Challenger,N/A,"13,349",R,71.68,28.31,.01,.00,71.69,28.31,,,
+President,New Hampshire,19561104,N/A,ROCKINGHAM,County,"38,442","28,226","Eisenhower, Dwight D.",Incumbent,"10,198","Stevenson, Adlai E. II",Challenger,States Rights,18,"Uncommitted, NULL",Challenger,N/A,"18,028",R,73.42,26.53,.05,.00,73.46,26.54,,,
+President,New Hampshire,19561104,N/A,STRAFFORD,County,"25,160","15,494","Eisenhower, Dwight D.",Incumbent,"9,659","Stevenson, Adlai E. II",Challenger,States Rights,7,"Uncommitted, NULL",Challenger,N/A,"5,835",R,61.58,38.39,.03,.00,61.60,38.40,,,
+President,New Hampshire,19561104,N/A,SULLIVAN,County,"12,647","8,403","Eisenhower, Dwight D.",Incumbent,"4,239","Stevenson, Adlai E. II",Challenger,States Rights,5,"Uncommitted, NULL",Challenger,N/A,"4,164",R,66.44,33.52,.04,.00,66.47,33.53,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,New Hampshire,"266,994","176,519","90,364",111,N/A,"86,155",R,"86,155",R,66.11,33.84,.04,.00,66.14,33.86
+,
+,
+,

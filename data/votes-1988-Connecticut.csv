@@ -1,0 +1,18 @@
+PRESIDENT 1988
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,19881108,N/A,FAIRFIELD,County,"374,627","221,316","Bush, George H.",Challenger,"149,630","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"3,681","71,686",R,59.08,39.94,.00,.98,59.66,40.34,,,
+President,Connecticut,19881108,N/A,HARTFORD,County,"376,402","173,031","Bush, George H.",Challenger,"199,857","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"3,514","26,826",D,45.97,53.10,.00,.93,46.40,53.60,,,
+President,Connecticut,19881108,N/A,LITCHFIELD,County,"80,113","44,637","Bush, George H.",Challenger,"34,227","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"1,249","10,410",R,55.72,42.72,.00,1.56,56.60,43.40,,,
+President,Connecticut,19881108,N/A,MIDDLESEX,County,"69,593","34,682","Bush, George H.",Challenger,"33,946","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,965,736,R,49.84,48.78,.00,1.39,50.54,49.46,,,
+President,Connecticut,19881108,N/A,NEW HAVEN,County,"341,811","174,251","Bush, George H.",Challenger,"163,153","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"4,407","11,098",R,50.98,47.73,.00,1.29,51.64,48.36,,,
+President,Connecticut,19881108,N/A,NEW LONDON,County,"103,011","52,681","Bush, George H.",Challenger,"48,882","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"1,448","3,799",R,51.14,47.45,.00,1.41,51.87,48.13,,,
+President,Connecticut,19881108,N/A,TOLLAND,County,"55,926","28,375","Bush, George H.",Challenger,"26,884","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,667,"1,491",R,50.74,48.07,.00,1.19,51.35,48.65,,,
+President,Connecticut,19881108,N/A,WINDHAM,County,"41,904","21,268","Bush, George H.",Challenger,"20,005","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,631,"1,263",R,50.75,47.74,.00,1.51,51.53,48.47,,,
+President,Connecticut,19881108,N/A,Votes Not Reported by County,County,7,N/A,"Bush, George H.",Challenger,N/A,"Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,7,7,O,.00,.00,.00,100.00,.00,.00,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"1,443,394","750,241","676,584",N/A,"16,569","73,657",R,"73,657",R,51.98,46.87,.00,1.15,52.58,47.42
+,
+,
+,

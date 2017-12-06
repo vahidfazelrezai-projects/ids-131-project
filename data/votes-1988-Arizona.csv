@@ -1,0 +1,24 @@
+PRESIDENT 1988
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,19881108,N/A,APACHE,County,"14,544","5,347","Bush, George H.",Challenger,"8,944","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,253,"3,597",D,36.76,61.50,.00,1.74,37.42,62.58,,,
+President,Arizona,19881108,N/A,COCHISE,County,"28,050","15,815","Bush, George H.",Challenger,"11,812","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,423,"4,003",R,56.38,42.11,.00,1.51,57.24,42.76,,,
+President,Arizona,19881108,N/A,COCONINO,County,"32,140","16,649","Bush, George H.",Challenger,"14,660","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,831,"1,989",R,51.80,45.61,.00,2.59,53.18,46.82,,,
+President,Arizona,19881108,N/A,GILA,County,"15,299","7,861","Bush, George H.",Challenger,"7,147","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,291,714,R,51.38,46.72,.00,1.90,52.38,47.62,,,
+President,Arizona,19881108,N/A,GRAHAM,County,"8,652","5,120","Bush, George H.",Challenger,"3,407","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,125,"1,713",R,59.18,39.38,.00,1.44,60.04,39.96,,,
+President,Arizona,19881108,N/A,GREENLEE,County,"3,302","1,526","Bush, George H.",Challenger,"1,733","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,43,207,D,46.21,52.48,.00,1.30,46.82,53.18,,,
+President,Arizona,19881108,N/A,LA PAZ,County,"4,376","2,562","Bush, George H.",Challenger,"1,746","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,68,816,R,58.55,39.90,.00,1.55,59.47,40.53,,,
+President,Arizona,19881108,N/A,MARICOPA,County,"681,518","442,337","Bush, George H.",Challenger,"230,952","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"8,229","211,385",R,64.90,33.89,.00,1.21,65.70,34.30,,,
+President,Arizona,19881108,N/A,MOHAVE,County,"28,286","17,651","Bush, George H.",Challenger,"10,197","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,438,"7,454",R,62.40,36.05,.00,1.55,63.38,36.62,,,
+President,Arizona,19881108,N/A,NAVAJO,County,"19,677","10,393","Bush, George H.",Challenger,"9,023","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,261,"1,370",R,52.82,45.86,.00,1.33,53.53,46.47,,,
+President,Arizona,19881108,N/A,PIMA,County,"234,473","117,899","Bush, George H.",Challenger,"113,824","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"2,750","4,075",R,50.28,48.54,.00,1.17,50.88,49.12,,,
+President,Arizona,19881108,N/A,PINAL,County,"29,180","14,966","Bush, George H.",Challenger,"13,850","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,364,"1,116",R,51.29,47.46,.00,1.25,51.94,48.06,,,
+President,Arizona,19881108,N/A,SANTA CRUZ,County,"6,690","3,320","Bush, George H.",Challenger,"3,268","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,102,52,R,49.63,48.85,.00,1.52,50.39,49.61,,,
+President,Arizona,19881108,N/A,YAVAPAI,County,"43,206","27,842","Bush, George H.",Challenger,"14,514","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,850,"13,328",R,64.44,33.59,.00,1.97,65.73,34.27,,,
+President,Arizona,19881108,N/A,YUMA,County,"22,480","13,253","Bush, George H.",Challenger,"8,952","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,275,"4,301",R,58.95,39.82,.00,1.22,59.68,40.32,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"1,171,873","702,541","454,029",N/A,"15,303","248,512",R,"248,512",R,59.95,38.74,.00,1.31,60.74,39.26
+,
+,
+,

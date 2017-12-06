@@ -1,0 +1,14 @@
+PRESIDENT 2008
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Rhode Island,20081104,N/A,BRISTOL,County,"25,905","9,260","McCain, John S. III",Challenger,"16,162","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,483,"6,902",D,35.75,62.39,.00,1.86,36.43,63.57,,,
+President,Rhode Island,20081104,N/A,KENT,County,"84,074","33,780","McCain, John S. III",Challenger,"48,406","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,888","14,626",D,40.18,57.58,.00,2.25,41.10,58.90,,,
+President,Rhode Island,20081104,N/A,NEWPORT,County,"41,997","15,717","McCain, John S. III",Challenger,"25,479","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,801,"9,762",D,37.42,60.67,.00,1.91,38.15,61.85,,,
+President,Rhode Island,20081104,N/A,PROVIDENCE,County,"253,630","81,010","McCain, John S. III",Challenger,"167,442","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"5,178","86,432",D,31.94,66.02,.00,2.04,32.61,67.39,,,
+President,Rhode Island,20081104,N/A,WASHINGTON,County,"66,160","25,624","McCain, John S. III",Challenger,"39,082","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,454","13,458",D,38.73,59.07,.00,2.20,39.60,60.40,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Rhode Island,"471,766","165,391","296,571",N/A,"9,804","131,180",D,"131,180",D,35.06,62.86,.00,2.08,35.80,64.20
+,
+,
+,

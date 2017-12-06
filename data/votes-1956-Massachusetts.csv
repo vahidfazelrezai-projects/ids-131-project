@@ -1,0 +1,23 @@
+PRESIDENT 1956
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Massachusetts,19561104,N/A,BARNSTABLE,County,"28,202","23,472","Eisenhower, Dwight D.",Incumbent,"4,672","Stevenson, Adlai E. II",Challenger,States Rights,58,"Uncommitted, NULL",Challenger,N/A,"18,800",R,83.23,16.57,.21,.00,83.40,16.60,,,
+President,Massachusetts,19561104,N/A,BERKSHIRE,County,"66,973","41,355","Eisenhower, Dwight D.",Incumbent,"25,361","Stevenson, Adlai E. II",Challenger,States Rights,257,"Uncommitted, NULL",Challenger,N/A,"15,994",R,61.75,37.87,.38,.00,61.99,38.01,,,
+President,Massachusetts,19561104,N/A,BRISTOL,County,"189,365","109,542","Eisenhower, Dwight D.",Incumbent,"79,357","Stevenson, Adlai E. II",Challenger,States Rights,466,"Uncommitted, NULL",Challenger,N/A,"30,185",R,57.85,41.91,.25,.00,57.99,42.01,,,
+President,Massachusetts,19561104,N/A,DUKES,County,"3,160","2,618","Eisenhower, Dwight D.",Incumbent,541,"Stevenson, Adlai E. II",Challenger,States Rights,1,"Uncommitted, NULL",Challenger,N/A,"2,077",R,82.85,17.12,.03,.00,82.87,17.13,,,
+President,Massachusetts,19561104,N/A,ESSEX,County,"276,453","166,115","Eisenhower, Dwight D.",Incumbent,"109,671","Stevenson, Adlai E. II",Challenger,States Rights,667,"Uncommitted, NULL",Challenger,N/A,"56,444",R,60.09,39.67,.24,.00,60.23,39.77,,,
+President,Massachusetts,19561104,N/A,FRANKLIN,County,"27,436","19,779","Eisenhower, Dwight D.",Incumbent,"7,574","Stevenson, Adlai E. II",Challenger,States Rights,83,"Uncommitted, NULL",Challenger,N/A,"12,205",R,72.09,27.61,.30,.00,72.31,27.69,,,
+President,Massachusetts,19561104,N/A,HAMPDEN,County,"187,367","104,689","Eisenhower, Dwight D.",Incumbent,"81,743","Stevenson, Adlai E. II",Challenger,States Rights,935,"Uncommitted, NULL",Challenger,N/A,"22,946",R,55.87,43.63,.50,.00,56.15,43.85,,,
+President,Massachusetts,19561104,N/A,HAMPSHIRE,County,"42,564","26,361","Eisenhower, Dwight D.",Incumbent,"16,119","Stevenson, Adlai E. II",Challenger,States Rights,84,"Uncommitted, NULL",Challenger,N/A,"10,242",R,61.93,37.87,.20,.00,62.06,37.94,,,
+President,Massachusetts,19561104,N/A,MIDDLESEX,County,"561,373","343,125","Eisenhower, Dwight D.",Incumbent,"216,668","Stevenson, Adlai E. II",Challenger,States Rights,"1,580","Uncommitted, NULL",Challenger,N/A,"126,457",R,61.12,38.60,.28,.00,61.29,38.71,,,
+President,Massachusetts,19561104,N/A,NANTUCKET,County,"1,900","1,582","Eisenhower, Dwight D.",Incumbent,317,"Stevenson, Adlai E. II",Challenger,States Rights,1,"Uncommitted, NULL",Challenger,N/A,"1,265",R,83.26,16.68,.05,.00,83.31,16.69,,,
+President,Massachusetts,19561104,N/A,NORFOLK,County,"229,996","152,747","Eisenhower, Dwight D.",Incumbent,"76,656","Stevenson, Adlai E. II",Challenger,States Rights,593,"Uncommitted, NULL",Challenger,N/A,"76,091",R,66.41,33.33,.26,.00,66.58,33.42,,,
+President,Massachusetts,19561104,N/A,PLYMOUTH,County,"106,161","75,575","Eisenhower, Dwight D.",Incumbent,"30,377","Stevenson, Adlai E. II",Challenger,States Rights,209,"Uncommitted, NULL",Challenger,N/A,"45,198",R,71.19,28.61,.20,.00,71.33,28.67,,,
+President,Massachusetts,19561104,N/A,SUFFOLK,County,"355,686","162,836","Eisenhower, Dwight D.",Incumbent,"191,245","Stevenson, Adlai E. II",Challenger,States Rights,"1,605","Uncommitted, NULL",Challenger,N/A,"28,409",D,45.78,53.77,.45,.00,45.99,54.01,,,
+President,Massachusetts,19561104,N/A,WORCESTER,County,"271,870","163,401","Eisenhower, Dwight D.",Incumbent,"107,889","Stevenson, Adlai E. II",Challenger,States Rights,580,"Uncommitted, NULL",Challenger,N/A,"55,512",R,60.10,39.68,.21,.00,60.23,39.77,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Massachusetts,"2,348,506","1,393,197","948,190","7,119",N/A,"445,007",R,"445,007",R,59.32,40.37,.30,.00,59.50,40.50
+,
+,
+,

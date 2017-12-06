@@ -1,0 +1,14 @@
+PRESIDENT 1944
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Rhode Island,19441107,N/A,BRISTOL,County,"11,222","4,919","Dewey, Thomas E.",Challenger,"6,287","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,16,"1,368",D,43.83,56.02,.00,.14,43.90,56.10,,,
+President,Rhode Island,19441107,N/A,KENT,County,"27,826","13,710","Dewey, Thomas E.",Challenger,"14,059","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,57,349,D,49.27,50.52,.00,.20,49.37,50.63,,,
+President,Rhode Island,19441107,N/A,NEWPORT,County,"20,831","9,435","Dewey, Thomas E.",Challenger,"11,375","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,21,"1,940",D,45.29,54.61,.00,.10,45.34,54.66,,,
+President,Rhode Island,19441107,N/A,PROVIDENCE,County,"224,727","87,190","Dewey, Thomas E.",Challenger,"137,216","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,321,"50,026",D,38.80,61.06,.00,.14,38.85,61.15,,,
+President,Rhode Island,19441107,N/A,WASHINGTON,County,"14,670","8,233","Dewey, Thomas E.",Challenger,"6,419","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,18,"1,814",R,56.12,43.76,.00,.12,56.19,43.81,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Rhode Island,"299,276","123,487","175,356",N/A,433,"51,869",D,"51,869",D,41.26,58.59,.00,.14,41.32,58.68
+,
+,
+,

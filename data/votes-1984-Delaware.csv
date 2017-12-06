@@ -1,0 +1,12 @@
+PRESIDENT 1984
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,19841106,N/A,KENT,County,"33,403","21,531","Reagan, Ronald",Incumbent,"11,789","Mondale, Walter F.",Challenger,N/A,N/A,N/A,N/A,83,"9,742",R,64.46,35.29,.00,.25,64.62,35.38,"In Virginia, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Virginia, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+President,Delaware,19841106,N/A,NEW CASTLE,County,"179,077","102,322","Reagan, Ronald",Incumbent,"76,238","Mondale, Walter F.",Challenger,N/A,N/A,N/A,N/A,517,"26,084",R,57.14,42.57,.00,.29,57.30,42.70,"In Virginia, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Virginia, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+President,Delaware,19841106,N/A,SUSSEX,County,"42,092","28,337","Reagan, Ronald",Incumbent,"13,629","Mondale, Walter F.",Challenger,N/A,N/A,N/A,N/A,126,"14,708",R,67.32,32.38,.00,.30,67.52,32.48,"In Virginia, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Virginia, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"254,572","152,190","101,656",N/A,726,"50,534",R,"50,534",R,59.78,39.93,.00,.29,59.95,40.05
+,
+,
+,

@@ -1,0 +1,24 @@
+PRESIDENT 2008
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,20081104,N/A,APACHE,County,"24,262","8,551","McCain, John S. III",Challenger,"15,390","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,321,"6,839",D,35.24,63.43,.00,1.32,35.72,64.28,,,
+President,Arizona,20081104,N/A,COCHISE,County,"48,820","29,026","McCain, John S. III",Challenger,"18,943","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,851,"10,083",R,59.46,38.80,.00,1.74,60.51,39.49,,,
+President,Arizona,20081104,N/A,COCONINO,County,"54,344","22,186","McCain, John S. III",Challenger,"31,433","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,725,"9,247",D,40.83,57.84,.00,1.33,41.38,58.62,,,
+President,Arizona,20081104,N/A,GILA,County,"22,333","14,095","McCain, John S. III",Challenger,"7,884","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,354,"6,211",R,63.11,35.30,.00,1.59,64.13,35.87,,,
+President,Arizona,20081104,N/A,GRAHAM,County,"12,007","8,376","McCain, John S. III",Challenger,"3,487","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,144,"4,889",R,69.76,29.04,.00,1.20,70.61,29.39,,,
+President,Arizona,20081104,N/A,GREENLEE,County,"2,913","1,712","McCain, John S. III",Challenger,"1,165","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,36,547,R,58.77,39.99,.00,1.24,59.51,40.49,,,
+President,Arizona,20081104,N/A,LA PAZ,County,"5,552","3,509","McCain, John S. III",Challenger,"1,929","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,114,"1,580",R,63.20,34.74,.00,2.05,64.53,35.47,,,
+President,Arizona,20081104,N/A,MARICOPA,County,"1,364,962","746,448","McCain, John S. III",Challenger,"602,166","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"16,348","144,282",R,54.69,44.12,.00,1.20,55.35,44.65,,,
+President,Arizona,20081104,N/A,MOHAVE,County,"67,605","44,333","McCain, John S. III",Challenger,"22,092","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,180","22,241",R,65.58,32.68,.00,1.75,66.74,33.26,,,
+President,Arizona,20081104,N/A,NAVAJO,County,"35,800","19,761","McCain, John S. III",Challenger,"15,579","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,460,"4,182",R,55.20,43.52,.00,1.28,55.92,44.08,,,
+President,Arizona,20081104,N/A,PIMA,County,"393,428","182,406","McCain, John S. III",Challenger,"206,254","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"4,768","23,848",D,46.36,52.42,.00,1.21,46.93,53.07,,,
+President,Arizona,20081104,N/A,PINAL,County,"104,883","59,421","McCain, John S. III",Challenger,"44,254","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,208","15,167",R,56.65,42.19,.00,1.15,57.31,42.69,,,
+President,Arizona,20081104,N/A,SANTA CRUZ,County,"13,303","4,518","McCain, John S. III",Challenger,"8,683","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,102,"4,165",D,33.96,65.27,.00,.77,34.22,65.78,,,
+President,Arizona,20081104,N/A,YAVAPAI,County,"99,648","61,192","McCain, John S. III",Challenger,"36,889","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,567","24,303",R,61.41,37.02,.00,1.57,62.39,37.61,,,
+President,Arizona,20081104,N/A,YUMA,County,"43,615","24,577","McCain, John S. III",Challenger,"18,559","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,479,"6,018",R,56.35,42.55,.00,1.10,56.98,43.02,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"2,293,475","1,230,111","1,034,707",N/A,"28,657","195,404",R,"195,404",R,53.64,45.12,.00,1.25,54.31,45.69
+,
+,
+,

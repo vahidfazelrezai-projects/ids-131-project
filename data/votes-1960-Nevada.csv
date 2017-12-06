@@ -1,0 +1,27 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Nevada,19601108,N/A,CARSON CITY,County,0,N/A,"Nixon, Richard M.",Challenger,N/A,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,0,R,.00,.00,.00,.00,.00,.00,,,
+President,Nevada,19601108,N/A,CHURCHILL,County,"3,074","1,765","Nixon, Richard M.",Challenger,"1,309","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,456,R,57.42,42.58,.00,.00,57.42,42.58,,,
+President,Nevada,19601108,N/A,CLARK,County,"42,146","18,197","Nixon, Richard M.",Challenger,"23,949","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"5,752",D,43.18,56.82,.00,.00,43.18,56.82,,,
+President,Nevada,19601108,N/A,DOUGLAS,County,"1,751","1,164","Nixon, Richard M.",Challenger,587,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,577,R,66.48,33.52,.00,.00,66.48,33.52,,,
+President,Nevada,19601108,N/A,ELKO,County,"4,922","2,427","Nixon, Richard M.",Challenger,"2,495","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,68,D,49.31,50.69,.00,.00,49.31,50.69,,,
+President,Nevada,19601108,N/A,ESMERALDA,County,371,156,"Nixon, Richard M.",Challenger,215,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,59,D,42.05,57.95,.00,.00,42.05,57.95,,,
+President,Nevada,19601108,N/A,EUREKA,County,462,239,"Nixon, Richard M.",Challenger,223,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,16,R,51.73,48.27,.00,.00,51.73,48.27,,,
+President,Nevada,19601108,N/A,HUMBOLDT,County,"2,330","1,157","Nixon, Richard M.",Challenger,"1,173","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,16,D,49.66,50.34,.00,.00,49.66,50.34,,,
+President,Nevada,19601108,N/A,LANDER,County,774,383,"Nixon, Richard M.",Challenger,391,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,8,D,49.48,50.52,.00,.00,49.48,50.52,,,
+President,Nevada,19601108,N/A,LINCOLN,County,"1,301",530,"Nixon, Richard M.",Challenger,771,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,241,D,40.74,59.26,.00,.00,40.74,59.26,,,
+President,Nevada,19601108,N/A,LYON,County,"2,503","1,494","Nixon, Richard M.",Challenger,"1,009","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,485,R,59.69,40.31,.00,.00,59.69,40.31,,,
+President,Nevada,19601108,N/A,MINERAL,County,"2,536",930,"Nixon, Richard M.",Challenger,"1,606","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,676,D,36.67,63.33,.00,.00,36.67,63.33,,,
+President,Nevada,19601108,N/A,NYE,County,"1,756",763,"Nixon, Richard M.",Challenger,993,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,230,D,43.45,56.55,.00,.00,43.45,56.55,,,
+President,Nevada,19601108,N/A,ORMSBY,County,"3,229","1,946","Nixon, Richard M.",Challenger,"1,283","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,663,R,60.27,39.73,.00,.00,60.27,39.73,,,
+President,Nevada,19601108,N/A,PERSHING,County,"1,364",648,"Nixon, Richard M.",Challenger,716,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,68,D,47.51,52.49,.00,.00,47.51,52.49,,,
+President,Nevada,19601108,N/A,STOREY,County,370,203,"Nixon, Richard M.",Challenger,167,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,36,R,54.86,45.14,.00,.00,54.86,45.14,,,
+President,Nevada,19601108,N/A,WASHOE,County,"34,113","18,833","Nixon, Richard M.",Challenger,"15,280","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,553",R,55.21,44.79,.00,.00,55.21,44.79,,,
+President,Nevada,19601108,N/A,WHITE PINE,County,"4,265","1,552","Nixon, Richard M.",Challenger,"2,713","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"1,161",D,36.39,63.61,.00,.00,36.39,63.61,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Nevada,"107,267","52,387","54,880",N/A,N/A,"2,493",D,"2,493",D,48.84,51.16,.00,.00,48.84,51.16
+,
+,
+,

@@ -1,0 +1,24 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,20041102,N/A,APACHE,County,"24,198","8,384","Bush, George W.",Incumbent,"15,658","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,156,"7,274",D,34.65,64.71,.00,.64,34.87,65.13,,,
+President,Arizona,20041102,N/A,COCHISE,County,"44,483","26,556","Bush, George W.",Incumbent,"17,514","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,413,"9,042",R,59.70,39.37,.00,.93,60.26,39.74,,,
+President,Arizona,20041102,N/A,COCONINO,County,"52,267","22,526","Bush, George W.",Incumbent,"29,243","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,498,"6,717",D,43.10,55.95,.00,.95,43.51,56.49,,,
+President,Arizona,20041102,N/A,GILA,County,"20,843","12,343","Bush, George W.",Incumbent,"8,314","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,186,"4,029",R,59.22,39.89,.00,.89,59.75,40.25,,,
+President,Arizona,20041102,N/A,GRAHAM,County,"10,720","7,467","Bush, George W.",Incumbent,"3,185","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,68,"4,282",R,69.65,29.71,.00,.63,70.10,29.90,,,
+President,Arizona,20041102,N/A,GREENLEE,County,"3,067","1,899","Bush, George W.",Incumbent,"1,146","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,22,753,R,61.92,37.37,.00,.72,62.36,37.64,,,
+President,Arizona,20041102,N/A,LA PAZ,County,"5,055","3,158","Bush, George W.",Incumbent,"1,849","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,48,"1,309",R,62.47,36.58,.00,.95,63.07,36.93,,,
+President,Arizona,20041102,N/A,MARICOPA,County,"1,192,751","679,455","Bush, George W.",Incumbent,"504,849","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"8,447","174,606",R,56.97,42.33,.00,.71,57.37,42.63,,,
+President,Arizona,20041102,N/A,MOHAVE,County,"57,807","36,794","Bush, George W.",Incumbent,"20,503","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,510,"16,291",R,63.65,35.47,.00,.88,64.22,35.78,,,
+President,Arizona,20041102,N/A,NAVAJO,County,"32,343","17,277","Bush, George W.",Incumbent,"14,815","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,251,"2,462",R,53.42,45.81,.00,.78,53.84,46.16,,,
+President,Arizona,20041102,N/A,PIMA,County,"366,907","171,109","Bush, George W.",Incumbent,"193,128","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,670","22,019",D,46.64,52.64,.00,.73,46.98,53.02,,,
+President,Arizona,20041102,N/A,PINAL,County,"64,622","37,006","Bush, George W.",Incumbent,"27,252","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,364,"9,754",R,57.27,42.17,.00,.56,57.59,42.41,,,
+President,Arizona,20041102,N/A,SANTA CRUZ,County,"11,668","4,668","Bush, George W.",Incumbent,"6,909","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,91,"2,241",D,40.01,59.21,.00,.78,40.32,59.68,,,
+President,Arizona,20041102,N/A,YAVAPAI,County,"87,389","53,468","Bush, George W.",Incumbent,"33,127","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,794,"20,341",R,61.18,37.91,.00,.91,61.74,38.26,,,
+President,Arizona,20041102,N/A,YUMA,County,"38,465","22,184","Bush, George W.",Incumbent,"16,032","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,249,"6,152",R,57.67,41.68,.00,.65,58.05,41.95,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"2,012,585","1,104,294","893,524",N/A,"14,767","210,770",R,"210,770",R,54.87,44.40,.00,.73,55.28,44.72
+,
+,
+,

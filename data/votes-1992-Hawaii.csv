@@ -1,0 +1,13 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Hawaii,19921103,N/A,HAWAII,County,"50,916","15,460","Bush, George H.",Incumbent,"25,725","Clinton, Bill",Challenger,Reform,"8,889","Perot, Ross",Challenger,842,"10,265",D,30.36,50.52,17.46,1.65,37.54,62.46,,,
+President,Hawaii,19921103,N/A,HONOLULU,County,"265,841","103,937","Bush, George H.",Incumbent,"123,908","Clinton, Bill",Challenger,Reform,"35,728","Perot, Ross",Challenger,"2,268","19,971",D,39.10,46.61,13.44,.85,45.62,54.38,,,
+President,Hawaii,19921103,N/A,KAUAI,County,"18,960","6,274","Bush, George H.",Incumbent,"10,715","Clinton, Bill",Challenger,Reform,"1,756","Perot, Ross",Challenger,215,"4,441",D,33.09,56.51,9.26,1.13,36.93,63.07,,,
+President,Hawaii,19921103,N/A,MAUI,County,"37,125","11,151","Bush, George H.",Incumbent,"18,962","Clinton, Bill",Challenger,Reform,"6,630","Perot, Ross",Challenger,382,"7,811",D,30.04,51.08,17.86,1.03,37.03,62.97,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Hawaii,"372,842","136,822","179,310","53,003","3,707","42,488",D,"42,488",D,36.70,48.09,14.22,.99,43.28,56.72
+,
+,
+,

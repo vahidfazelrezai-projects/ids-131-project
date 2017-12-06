@@ -1,0 +1,16 @@
+.counties path {
+  stroke: #fff;
+  stroke-width: 1px;
+  stroke-opacity: .5;
+}
+
+.states {
+  stroke: #fff;
+  stroke-width: 1px;
+  fill: none;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}

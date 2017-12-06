@@ -1,0 +1,18 @@
+PRESIDENT 2008
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,District of Columbia,20081104,N/A,Federal Ballots,Absentee,"1,496",90,"McCain, John S. III",Challenger,"1,400","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,6,"1,310",D,6.02,93.58,.00,.40,6.04,93.96,,,
+President,District of Columbia,20081104,N/A,Ward 1,Ward,"31,029","1,599","McCain, John S. III",Challenger,"28,977","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,453,"27,378",D,5.15,93.39,.00,1.46,5.23,94.77,,,
+President,District of Columbia,20081104,N/A,Ward 2,Ward,"28,952","3,619","McCain, John S. III",Challenger,"24,865","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,468,"21,246",D,12.50,85.88,.00,1.62,12.71,87.29,,,
+President,District of Columbia,20081104,N/A,Ward 3,Ward,"36,831","5,737","McCain, John S. III",Challenger,"30,491","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,603,"24,754",D,15.58,82.79,.00,1.64,15.84,84.16,,,
+President,District of Columbia,20081104,N/A,Ward 4,Ward,"36,395","1,395","McCain, John S. III",Challenger,"34,720","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,280,"33,325",D,3.83,95.40,.00,.77,3.86,96.14,,,
+President,District of Columbia,20081104,N/A,Ward 5,Ward,"34,379",887,"McCain, John S. III",Challenger,"33,259","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,233,"32,372",D,2.58,96.74,.00,.68,2.60,97.40,,,
+President,District of Columbia,20081104,N/A,Ward 6,Ward,"35,006","3,518","McCain, John S. III",Challenger,"31,031","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,457,"27,513",D,10.05,88.64,.00,1.31,10.18,89.82,,,
+President,District of Columbia,20081104,N/A,Ward 7,Ward,"34,100",312,"McCain, John S. III",Challenger,"33,663","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,125,"33,351",D,.91,98.72,.00,.37,.92,99.08,,,
+President,District of Columbia,20081104,N/A,Ward 8,Ward,"27,665",210,"McCain, John S. III",Challenger,"27,394","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,61,"27,184",D,.76,99.02,.00,.22,.76,99.24,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,District of Columbia,"265,853","17,367","245,800",N/A,"2,686","228,433",D,"228,433",D,6.53,92.46,.00,1.01,6.60,93.40
+,
+,
+,

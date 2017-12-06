@@ -1,0 +1,17 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,20041102,N/A,FAIRFIELD,County,"400,967","189,605","Bush, George W.",Incumbent,"205,902","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"5,460","16,297",D,47.29,51.35,.00,1.36,47.94,52.06,,,
+President,Connecticut,20041102,N/A,HARTFORD,County,"391,808","154,919","Bush, George W.",Incumbent,"229,902","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"6,987","74,983",D,39.54,58.68,.00,1.78,40.26,59.74,,,
+President,Connecticut,20041102,N/A,LITCHFIELD,County,"96,668","50,160","Bush, George W.",Incumbent,"44,647","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,861","5,513",R,51.89,46.19,.00,1.93,52.91,47.09,,,
+President,Connecticut,20041102,N/A,MIDDLESEX,County,"83,984","35,252","Bush, George W.",Incumbent,"47,292","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,440","12,040",D,41.97,56.31,.00,1.71,42.71,57.29,,,
+President,Connecticut,20041102,N/A,NEW HAVEN,County,"366,392","160,390","Bush, George W.",Incumbent,"199,060","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"6,942","38,670",D,43.78,54.33,.00,1.89,44.62,55.38,,,
+President,Connecticut,20041102,N/A,NEW LONDON,County,"118,360","49,931","Bush, George W.",Incumbent,"66,062","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,367","16,131",D,42.19,55.81,.00,2.00,43.05,56.95,,,
+President,Connecticut,20041102,N/A,TOLLAND,County,"71,729","31,245","Bush, George W.",Incumbent,"39,146","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,338","7,901",D,43.56,54.57,.00,1.87,44.39,55.61,,,
+President,Connecticut,20041102,N/A,WINDHAM,County,"48,861","22,324","Bush, George W.",Incumbent,"25,477","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,060","3,153",D,45.69,52.14,.00,2.17,46.70,53.30,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"1,578,769","693,826","857,488",N/A,"27,455","163,662",D,"163,662",D,43.95,54.31,.00,1.74,44.73,55.27
+,
+,
+,

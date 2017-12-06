@@ -1,0 +1,12 @@
+PRESIDENT 2008
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,20081104,N/A,KENT,County,"66,925","29,827","McCain, John S. III",Challenger,"36,392","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,706,"6,565",D,44.57,54.38,.00,1.05,45.04,54.96,,,
+President,Delaware,20081104,N/A,NEW CASTLE,County,"256,417","74,608","McCain, John S. III",Challenger,"178,768","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"3,041","104,160",D,29.10,69.72,.00,1.19,29.45,70.55,,,
+President,Delaware,20081104,N/A,SUSSEX,County,"89,070","47,939","McCain, John S. III",Challenger,"40,299","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,832,"7,640",R,53.82,45.24,.00,.93,54.33,45.67,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"412,412","152,374","255,459",N/A,"4,579","103,085",D,"103,085",D,36.95,61.94,.00,1.11,37.36,62.64
+,
+,
+,

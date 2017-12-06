@@ -1,0 +1,25 @@
+PRESIDENT 1944
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Maine,19441107,N/A,ANDROSCOGGIN,County,"30,039","10,927","Dewey, Thomas E.",Challenger,"19,078","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,34,"8,151",D,36.38,63.51,.00,.11,36.42,63.58,,,
+President,Maine,19441107,N/A,AROOSTOOK,County,"19,717","11,678","Dewey, Thomas E.",Challenger,"8,017","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,22,"3,661",R,59.23,40.66,.00,.11,59.29,40.71,,,
+President,Maine,19441107,N/A,CUMBERLAND,County,"56,278","29,349","Dewey, Thomas E.",Challenger,"26,857","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,72,"2,492",R,52.15,47.72,.00,.13,52.22,47.78,,,
+President,Maine,19441107,N/A,FRANKLIN,County,"6,777","4,127","Dewey, Thomas E.",Challenger,"2,646","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,4,"1,481",R,60.90,39.04,.00,.06,60.93,39.07,,,
+President,Maine,19441107,N/A,HANCOCK,County,"10,396","7,143","Dewey, Thomas E.",Challenger,"3,241","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,12,"3,902",R,68.71,31.18,.00,.12,68.79,31.21,,,
+President,Maine,19441107,N/A,KENNEBEC,County,"28,430","14,335","Dewey, Thomas E.",Challenger,"14,070","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,25,265,R,50.42,49.49,.00,.09,50.47,49.53,,,
+President,Maine,19441107,N/A,KNOX,County,"9,363","5,590","Dewey, Thomas E.",Challenger,"3,758","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,15,"1,832",R,59.70,40.14,.00,.16,59.80,40.20,,,
+President,Maine,19441107,N/A,LINCOLN,County,"7,030","4,919","Dewey, Thomas E.",Challenger,"2,102","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,9,"2,817",R,69.97,29.90,.00,.13,70.06,29.94,,,
+President,Maine,19441107,N/A,OXFORD,County,"14,442","8,053","Dewey, Thomas E.",Challenger,"6,377","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,12,"1,676",R,55.76,44.16,.00,.08,55.81,44.19,,,
+President,Maine,19441107,N/A,PENOBSCOT,County,"30,264","16,934","Dewey, Thomas E.",Challenger,"13,292","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,38,"3,642",R,55.95,43.92,.00,.13,56.02,43.98,,,
+President,Maine,19441107,N/A,PISCATAQUIS,County,"6,494","3,536","Dewey, Thomas E.",Challenger,"2,957","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,1,579,R,54.45,45.53,.00,.02,54.46,45.54,,,
+President,Maine,19441107,N/A,SAGADAHOC,County,"7,889","3,883","Dewey, Thomas E.",Challenger,"4,003","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,3,120,D,49.22,50.74,.00,.04,49.24,50.76,,,
+President,Maine,19441107,N/A,SOMERSET,County,"12,523","7,167","Dewey, Thomas E.",Challenger,"5,331","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,25,"1,836",R,57.23,42.57,.00,.20,57.35,42.65,,,
+President,Maine,19441107,N/A,WALDO,County,"6,104","4,291","Dewey, Thomas E.",Challenger,"1,807","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,6,"2,484",R,70.30,29.60,.00,.10,70.37,29.63,,,
+President,Maine,19441107,N/A,WASHINGTON,County,"11,107","5,380","Dewey, Thomas E.",Challenger,"5,709","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,18,329,D,48.44,51.40,.00,.16,48.52,51.48,,,
+President,Maine,19441107,N/A,YORK,County,"39,547","18,122","Dewey, Thomas E.",Challenger,"21,386","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,39,"3,264",D,45.82,54.08,.00,.10,45.87,54.13,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Maine,"296,400","155,434","140,631",N/A,335,"14,803",R,"14,803",R,52.44,47.45,.00,.11,52.50,47.50
+,
+,
+,

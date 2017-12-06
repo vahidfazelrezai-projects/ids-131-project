@@ -1,0 +1,26 @@
+PRESIDENT 1944
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Nevada,19441107,N/A,CHURCHILL,County,"2,176","1,130","Dewey, Thomas E.",Challenger,"1,046","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,84,R,51.93,48.07,.00,.00,51.93,48.07,,,
+President,Nevada,19441107,N/A,CLARK,County,"11,893","4,543","Dewey, Thomas E.",Challenger,"7,350","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,"2,807",D,38.20,61.80,.00,.00,38.20,61.80,,,
+President,Nevada,19441107,N/A,DOUGLAS,County,838,556,"Dewey, Thomas E.",Challenger,282,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,274,R,66.35,33.65,.00,.00,66.35,33.65,,,
+President,Nevada,19441107,N/A,ELKO,County,"3,922","1,642","Dewey, Thomas E.",Challenger,"2,280","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,638,D,41.87,58.13,.00,.00,41.87,58.13,,,
+President,Nevada,19441107,N/A,ESMERALDA,County,373,150,"Dewey, Thomas E.",Challenger,223,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,73,D,40.21,59.79,.00,.00,40.21,59.79,,,
+President,Nevada,19441107,N/A,EUREKA,County,534,317,"Dewey, Thomas E.",Challenger,217,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,100,R,59.36,40.64,.00,.00,59.36,40.64,,,
+President,Nevada,19441107,N/A,HUMBOLDT,County,"1,829",835,"Dewey, Thomas E.",Challenger,994,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,159,D,45.65,54.35,.00,.00,45.65,54.35,,,
+President,Nevada,19441107,N/A,LANDER,County,808,425,"Dewey, Thomas E.",Challenger,383,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,42,R,52.60,47.40,.00,.00,52.60,47.40,,,
+President,Nevada,19441107,N/A,LINCOLN,County,"1,819",524,"Dewey, Thomas E.",Challenger,"1,295","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,771,D,28.81,71.19,.00,.00,28.81,71.19,,,
+President,Nevada,19441107,N/A,LYON,County,"1,603",895,"Dewey, Thomas E.",Challenger,708,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,187,R,55.83,44.17,.00,.00,55.83,44.17,,,
+President,Nevada,19441107,N/A,MINERAL,County,"2,095",751,"Dewey, Thomas E.",Challenger,"1,344","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,593,D,35.85,64.15,.00,.00,35.85,64.15,,,
+President,Nevada,19441107,N/A,NYE,County,"1,666",723,"Dewey, Thomas E.",Challenger,943,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,220,D,43.40,56.60,.00,.00,43.40,56.60,,,
+President,Nevada,19441107,N/A,ORMSBY,County,"1,506",841,"Dewey, Thomas E.",Challenger,665,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,176,R,55.84,44.16,.00,.00,55.84,44.16,,,
+President,Nevada,19441107,N/A,PERSHING,County,"1,062",538,"Dewey, Thomas E.",Challenger,524,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,14,R,50.66,49.34,.00,.00,50.66,49.34,,,
+President,Nevada,19441107,N/A,STOREY,County,336,163,"Dewey, Thomas E.",Challenger,173,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,10,D,48.51,51.49,.00,.00,48.51,51.49,,,
+President,Nevada,19441107,N/A,WASHOE,County,"17,408","9,024","Dewey, Thomas E.",Challenger,"8,384","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,640,R,51.84,48.16,.00,.00,51.84,48.16,,,
+President,Nevada,19441107,N/A,WHITE PINE,County,"4,366","1,554","Dewey, Thomas E.",Challenger,"2,812","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,"1,258",D,35.59,64.41,.00,.00,35.59,64.41,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Nevada,"54,234","24,611","29,623",N/A,N/A,"5,012",D,"5,012",D,45.38,54.62,.00,.00,45.38,54.62
+,
+,
+,

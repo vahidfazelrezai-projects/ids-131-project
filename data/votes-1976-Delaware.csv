@@ -1,0 +1,12 @@
+PRESIDENT 1976
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,19761102,N/A,KENT,County,"29,428","12,604","Ford, Gerald R.",Incumbent,"16,523","Carter, Jimmy",Challenger,N/A,N/A,N/A,N/A,301,"3,919",D,42.83,56.15,.00,1.02,43.27,56.73,"In Kansas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Kansas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+President,Delaware,19761102,N/A,NEW CASTLE,County,"170,338","80,074","Ford, Gerald R.",Incumbent,"87,521","Carter, Jimmy",Challenger,N/A,N/A,N/A,N/A,"2,743","7,447",D,47.01,51.38,.00,1.61,47.78,52.22,"In Kansas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Kansas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+President,Delaware,19761102,N/A,SUSSEX,County,"36,068","17,153","Ford, Gerald R.",Incumbent,"18,552","Carter, Jimmy",Challenger,N/A,N/A,N/A,N/A,363,"1,399",D,47.56,51.44,.00,1.01,48.04,51.96,"In Kansas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Kansas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"235,834","109,831","122,596",N/A,"3,407","12,765",D,"12,765",D,46.57,51.98,.00,1.44,47.25,52.75
+,
+,
+,

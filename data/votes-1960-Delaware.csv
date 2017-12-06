@@ -1,0 +1,12 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,19601108,N/A,KENT,County,"21,616","10,697","Nixon, Richard M.",Challenger,"10,754","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,165,57,D,49.49,49.75,.00,.76,49.87,50.13,,,
+President,Delaware,19601108,N/A,NEW CASTLE,County,"142,974","69,284","Nixon, Richard M.",Challenger,"73,364","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,326,"4,080",D,48.46,51.31,.00,.23,48.57,51.43,,,
+President,Delaware,19601108,N/A,SUSSEX,County,"32,093","16,392","Nixon, Richard M.",Challenger,"15,472","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,229,920,R,51.08,48.21,.00,.71,51.44,48.56,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"196,683","96,373","99,590",N/A,720,"3,217",D,"3,217",D,49.00,50.63,.00,.37,49.18,50.82
+,
+,
+,

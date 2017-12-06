@@ -1,0 +1,17 @@
+PRESIDENT 1956
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,19561104,N/A,FAIRFIELD,County,"284,847","199,841","Eisenhower, Dwight D.",Incumbent,"84,890","Stevenson, Adlai E. II",Challenger,States Rights,116,"Uncommitted, NULL",Challenger,N/A,"114,951",R,70.16,29.80,.04,.00,70.19,29.81,,,
+President,Connecticut,19561104,N/A,HARTFORD,County,"302,842","175,894","Eisenhower, Dwight D.",Incumbent,"126,923","Stevenson, Adlai E. II",Challenger,States Rights,25,"Uncommitted, NULL",Challenger,N/A,"48,971",R,58.08,41.91,.01,.00,58.09,41.91,,,
+President,Connecticut,19561104,N/A,LITCHFIELD,County,"57,261","40,029","Eisenhower, Dwight D.",Incumbent,"17,226","Stevenson, Adlai E. II",Challenger,States Rights,6,"Uncommitted, NULL",Challenger,N/A,"22,803",R,69.91,30.08,.01,.00,69.91,30.09,,,
+President,Connecticut,19561104,N/A,MIDDLESEX,County,"39,355","25,496","Eisenhower, Dwight D.",Incumbent,"13,851","Stevenson, Adlai E. II",Challenger,States Rights,8,"Uncommitted, NULL",Challenger,N/A,"11,645",R,64.78,35.20,.02,.00,64.80,35.20,,,
+President,Connecticut,19561104,N/A,NEW HAVEN,County,"303,459","191,215","Eisenhower, Dwight D.",Incumbent,"112,208","Stevenson, Adlai E. II",Challenger,States Rights,36,"Uncommitted, NULL",Challenger,N/A,"79,007",R,63.01,36.98,.01,.00,63.02,36.98,,,
+President,Connecticut,19561104,N/A,NEW LONDON,County,"70,781","43,453","Eisenhower, Dwight D.",Incumbent,"27,317","Stevenson, Adlai E. II",Challenger,States Rights,11,"Uncommitted, NULL",Challenger,N/A,"16,136",R,61.39,38.59,.02,.00,61.40,38.60,,,
+President,Connecticut,19561104,N/A,TOLLAND,County,"24,992","15,880","Eisenhower, Dwight D.",Incumbent,"9,111","Stevenson, Adlai E. II",Challenger,States Rights,1,"Uncommitted, NULL",Challenger,N/A,"6,769",R,63.54,36.46,.00,.00,63.54,36.46,,,
+President,Connecticut,19561104,N/A,WINDHAM,County,"33,584","20,029","Eisenhower, Dwight D.",Incumbent,"13,553","Stevenson, Adlai E. II",Challenger,States Rights,2,"Uncommitted, NULL",Challenger,N/A,"6,476",R,59.64,40.36,.01,.00,59.64,40.36,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"1,117,121","711,837","405,079",205,N/A,"306,758",R,"306,758",R,63.72,36.26,.02,.00,63.73,36.27
+,
+,
+,

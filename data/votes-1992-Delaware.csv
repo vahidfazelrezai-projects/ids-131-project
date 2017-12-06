@@ -1,0 +1,12 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,19921103,N/A,KENT,County,"40,255","15,562","Bush, George H.",Incumbent,"15,364","Clinton, Bill",Challenger,Reform,"8,916","Perot, Ross",Challenger,413,198,R,38.66,38.17,22.15,1.03,50.32,49.68,,,
+President,Delaware,19921103,N/A,NEW CASTLE,County,"196,904","66,311","Bush, George H.",Incumbent,"91,516","Clinton, Bill",Challenger,Reform,"37,581","Perot, Ross",Challenger,"1,496","25,205",D,33.68,46.48,19.09,.76,42.01,57.99,,,
+President,Delaware,19921103,N/A,SUSSEX,County,"52,576","20,440","Bush, George H.",Incumbent,"19,174","Clinton, Bill",Challenger,Reform,"12,716","Perot, Ross",Challenger,246,"1,266",R,38.88,36.47,24.19,.47,51.60,48.40,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"289,735","102,313","126,054","59,213","2,155","23,741",D,"23,741",D,35.31,43.51,20.44,.74,44.80,55.20
+,
+,
+,

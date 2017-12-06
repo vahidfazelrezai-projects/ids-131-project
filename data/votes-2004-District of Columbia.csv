@@ -1,0 +1,18 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,District of Columbia,20041102,N/A,Federal Ballots,Absentee,"1,212",129,"Bush, George W.",Incumbent,"1,065","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,18,936,D,10.64,87.87,.00,1.49,10.80,89.20,,,
+President,District of Columbia,20041102,N/A,Ward 1,Ward,"26,096","1,751","Bush, George W.",Incumbent,"23,727","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,618,"21,976",D,6.71,90.92,.00,2.37,6.87,93.13,,,
+President,District of Columbia,20041102,N/A,Ward 2,Ward,"24,933","3,713","Bush, George W.",Incumbent,"20,691","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,529,"16,978",D,14.89,82.99,.00,2.12,15.21,84.79,,,
+President,District of Columbia,20041102,N/A,Ward 3,Ward,"35,993","6,953","Bush, George W.",Incumbent,"28,358","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,682,"21,405",D,19.32,78.79,.00,1.89,19.69,80.31,,,
+President,District of Columbia,20041102,N/A,Ward 4,Ward,"32,849","2,156","Bush, George W.",Incumbent,"30,341","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,352,"28,185",D,6.56,92.37,.00,1.07,6.63,93.37,,,
+President,District of Columbia,20041102,N/A,Ward 5,Ward,"29,177","1,520","Bush, George W.",Incumbent,"27,348","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,309,"25,828",D,5.21,93.73,.00,1.06,5.27,94.73,,,
+President,District of Columbia,20041102,N/A,Ward 6,Ward,"29,531","3,339","Bush, George W.",Incumbent,"25,654","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,538,"22,315",D,11.31,86.87,.00,1.82,11.52,88.48,,,
+President,District of Columbia,20041102,N/A,Ward 7,Ward,"27,112","1,006","Bush, George W.",Incumbent,"25,914","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,192,"24,908",D,3.71,95.58,.00,.71,3.74,96.26,,,
+President,District of Columbia,20041102,N/A,Ward 8,Ward,"20,683",689,"Bush, George W.",Incumbent,"19,872","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,122,"19,183",D,3.33,96.08,.00,.59,3.35,96.65,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,District of Columbia,"227,586","21,256","202,970",N/A,"3,360","181,714",D,"181,714",D,9.34,89.18,.00,1.48,9.48,90.52
+,
+,
+,

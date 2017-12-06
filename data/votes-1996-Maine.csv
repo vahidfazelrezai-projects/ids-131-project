@@ -1,0 +1,25 @@
+PRESIDENT 1996
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Maine,19961105,N/A,ANDROSCOGGIN,County,"46,731","12,053","Dole, Robert",Challenger,"26,428","Clinton, Bill",Incumbent,Reform,"7,079","Perot, Ross",Challenger,"1,171","14,375",D,25.79,56.55,15.15,2.51,31.32,68.68,,,
+President,Maine,19961105,N/A,AROOSTOOK,County,"34,792","10,400","Dole, Robert",Challenger,"18,022","Clinton, Bill",Incumbent,Reform,"5,747","Perot, Ross",Challenger,623,"7,622",D,29.89,51.80,16.52,1.79,36.59,63.41,,,
+President,Maine,19961105,N/A,CUMBERLAND,County,"129,610","42,620","Dole, Robert",Challenger,"69,496","Clinton, Bill",Incumbent,Reform,"12,696","Perot, Ross",Challenger,"4,798","26,876",D,32.88,53.62,9.80,3.70,38.01,61.99,,,
+President,Maine,19961105,N/A,FRANKLIN,County,"14,596","3,757","Dole, Robert",Challenger,"7,759","Clinton, Bill",Incumbent,Reform,"2,567","Perot, Ross",Challenger,513,"4,002",D,25.74,53.16,17.59,3.51,32.62,67.38,,,
+President,Maine,19961105,N/A,HANCOCK,County,"26,448","8,345","Dole, Robert",Challenger,"12,256","Clinton, Bill",Incumbent,Reform,"4,094","Perot, Ross",Challenger,"1,753","3,911",D,31.55,46.34,15.48,6.63,40.51,59.49,,,
+President,Maine,19961105,N/A,KENNEBEC,County,"55,654","15,403","Dole, Robert",Challenger,"30,257","Clinton, Bill",Incumbent,Reform,"8,281","Perot, Ross",Challenger,"1,713","14,854",D,27.68,54.37,14.88,3.08,33.73,66.27,,,
+President,Maine,19961105,N/A,KNOX,County,"18,883","6,192","Dole, Robert",Challenger,"8,839","Clinton, Bill",Incumbent,Reform,"2,780","Perot, Ross",Challenger,"1,072","2,647",D,32.79,46.81,14.72,5.68,41.19,58.81,,,
+President,Maine,19961105,N/A,LINCOLN,County,"18,173","6,372","Dole, Robert",Challenger,"8,130","Clinton, Bill",Incumbent,Reform,"2,923","Perot, Ross",Challenger,748,"1,758",D,35.06,44.74,16.08,4.12,43.94,56.06,,,
+President,Maine,19961105,N/A,OXFORD,County,"26,091","7,238","Dole, Robert",Challenger,"13,580","Clinton, Bill",Incumbent,Reform,"4,589","Perot, Ross",Challenger,684,"6,342",D,27.74,52.05,17.59,2.62,34.77,65.23,,,
+President,Maine,19961105,N/A,PENOBSCOT,County,"70,517","22,885","Dole, Robert",Challenger,"35,961","Clinton, Bill",Incumbent,Reform,"9,673","Perot, Ross",Challenger,"1,998","13,076",D,32.45,51.00,13.72,2.83,38.89,61.11,,,
+President,Maine,19961105,N/A,PISCATAQUIS,County,"8,920","2,815","Dole, Robert",Challenger,"4,343","Clinton, Bill",Incumbent,Reform,"1,524","Perot, Ross",Challenger,238,"1,528",D,31.56,48.69,17.09,2.67,39.33,60.67,,,
+President,Maine,19961105,N/A,SAGADAHOC,County,"16,924","5,346","Dole, Robert",Challenger,"8,417","Clinton, Bill",Incumbent,Reform,"2,451","Perot, Ross",Challenger,710,"3,071",D,31.59,49.73,14.48,4.20,38.84,61.16,,,
+President,Maine,19961105,N/A,SOMERSET,County,"23,111","6,247","Dole, Robert",Challenger,"11,773","Clinton, Bill",Incumbent,Reform,"4,449","Perot, Ross",Challenger,642,"5,526",D,27.03,50.94,19.25,2.78,34.67,65.33,,,
+President,Maine,19961105,N/A,WALDO,County,"17,279","5,318","Dole, Robert",Challenger,"8,012","Clinton, Bill",Incumbent,Reform,"2,816","Perot, Ross",Challenger,"1,133","2,694",D,30.78,46.37,16.30,6.56,39.89,60.11,,,
+President,Maine,19961105,N/A,WASHINGTON,County,"15,189","4,793","Dole, Robert",Challenger,"7,198","Clinton, Bill",Incumbent,Reform,"2,721","Perot, Ross",Challenger,477,"2,405",D,31.56,47.39,17.91,3.14,39.97,60.03,,,
+President,Maine,19961105,N/A,YORK,County,"82,979","26,594","Dole, Robert",Challenger,"42,317","Clinton, Bill",Incumbent,Reform,"11,580","Perot, Ross",Challenger,"2,488","15,723",D,32.05,51.00,13.96,3.00,38.59,61.41,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Maine,"605,897","186,378","312,788","85,970","20,761","126,410",D,"126,410",D,30.76,51.62,14.19,3.43,37.34,62.66
+,
+,
+,

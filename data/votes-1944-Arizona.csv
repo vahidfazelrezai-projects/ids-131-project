@@ -1,0 +1,24 @@
+PRESIDENT 1944
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,19441107,N/A,APACHE,County,"1,968",728,"Dewey, Thomas E.",Challenger,"1,238","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,2,510,D,36.99,62.91,.00,.10,37.03,62.97,,,
+President,Arizona,19441107,N/A,COCHISE,County,"10,319","3,371","Dewey, Thomas E.",Challenger,"6,935","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,13,"3,564",D,32.67,67.21,.00,.13,32.71,67.29,,,
+President,Arizona,19441107,N/A,COCONINO,County,"4,028","1,786","Dewey, Thomas E.",Challenger,"2,236","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,6,450,D,44.34,55.51,.00,.15,44.41,55.59,,,
+President,Arizona,19441107,N/A,GILA,County,"7,107","2,260","Dewey, Thomas E.",Challenger,"4,818","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,29,"2,558",D,31.80,67.79,.00,.41,31.93,68.07,,,
+President,Arizona,19441107,N/A,GRAHAM,County,"3,549","1,151","Dewey, Thomas E.",Challenger,"2,393","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,5,"1,242",D,32.43,67.43,.00,.14,32.48,67.52,,,
+President,Arizona,19441107,N/A,GREENLEE,County,"2,704",739,"Dewey, Thomas E.",Challenger,"1,956","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,9,"1,217",D,27.33,72.34,.00,.33,27.42,72.58,,,
+President,Arizona,19441107,N/A,LA PAZ,County,0,N/A,"Dewey, Thomas E.",Challenger,N/A,"Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,N/A,0,R,.00,.00,.00,.00,.00,.00,,,
+President,Arizona,19441107,N/A,MARICOPA,County,"57,258","24,853","Dewey, Thomas E.",Challenger,"32,197","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,208,"7,344",D,43.41,56.23,.00,.36,43.56,56.44,,,
+President,Arizona,19441107,N/A,MOHAVE,County,"2,284",974,"Dewey, Thomas E.",Challenger,"1,303","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,7,329,D,42.64,57.05,.00,.31,42.78,57.22,,,
+President,Arizona,19441107,N/A,NAVAJO,County,"4,252","1,579","Dewey, Thomas E.",Challenger,"2,660","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,13,"1,081",D,37.14,62.56,.00,.31,37.25,62.75,,,
+President,Arizona,19441107,N/A,PIMA,County,"23,913","10,850","Dewey, Thomas E.",Challenger,"13,006","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,57,"2,156",D,45.37,54.39,.00,.24,45.48,54.52,,,
+President,Arizona,19441107,N/A,PINAL,County,"4,957","1,909","Dewey, Thomas E.",Challenger,"3,026","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,22,"1,117",D,38.51,61.04,.00,.44,38.68,61.32,,,
+President,Arizona,19441107,N/A,SANTA CRUZ,County,"2,022",727,"Dewey, Thomas E.",Challenger,"1,291","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,4,564,D,35.95,63.85,.00,.20,36.03,63.97,,,
+President,Arizona,19441107,N/A,YAVAPAI,County,"7,960","3,529","Dewey, Thomas E.",Challenger,"4,395","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,36,866,D,44.33,55.21,.00,.45,44.54,55.46,,,
+President,Arizona,19441107,N/A,YUMA,County,"5,313","1,831","Dewey, Thomas E.",Challenger,"3,472","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,10,"1,641",D,34.46,65.35,.00,.19,34.53,65.47,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"137,634","56,287","80,926",N/A,421,"24,639",D,"24,639",D,40.90,58.80,.00,.31,41.02,58.98
+,
+,
+,

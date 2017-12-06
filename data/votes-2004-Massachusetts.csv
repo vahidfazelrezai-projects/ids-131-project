@@ -1,0 +1,23 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Massachusetts,20041102,N/A,BARNSTABLE,County,"132,148","58,527","Bush, George W.",Incumbent,"72,156","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,465","13,629",D,44.29,54.60,.00,1.11,44.79,55.21,,,
+President,Massachusetts,20041102,N/A,BERKSHIRE,County,"65,291","16,806","Bush, George W.",Incumbent,"47,743","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,742,"30,937",D,25.74,73.12,.00,1.14,26.04,73.96,,,
+President,Massachusetts,20041102,N/A,BRISTOL,County,"232,878","82,524","Bush, George W.",Incumbent,"147,854","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,500","65,330",D,35.44,63.49,.00,1.07,35.82,64.18,,,
+President,Massachusetts,20041102,N/A,DUKES,County,"9,997","2,602","Bush, George W.",Incumbent,"7,265","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,130,"4,663",D,26.03,72.67,.00,1.30,26.37,73.63,,,
+President,Massachusetts,20041102,N/A,ESSEX,County,"333,233","135,114","Bush, George W.",Incumbent,"194,068","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"4,051","58,954",D,40.55,58.24,.00,1.22,41.05,58.95,,,
+President,Massachusetts,20041102,N/A,FRANKLIN,County,"37,381","11,058","Bush, George W.",Incumbent,"25,550","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,773,"14,492",D,29.58,68.35,.00,2.07,30.21,69.79,,,
+President,Massachusetts,20041102,N/A,HAMPDEN,County,"186,639","70,925","Bush, George W.",Incumbent,"113,710","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,004","42,785",D,38.00,60.93,.00,1.07,38.41,61.59,,,
+President,Massachusetts,20041102,N/A,HAMPSHIRE,County,"74,422","21,315","Bush, George W.",Incumbent,"51,680","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,427","30,365",D,28.64,69.44,.00,1.92,29.20,70.80,,,
+President,Massachusetts,20041102,N/A,MIDDLESEX,County,"688,960","237,815","Bush, George W.",Incumbent,"440,862","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"10,283","203,047",D,34.52,63.99,.00,1.49,35.04,64.96,,,
+President,Massachusetts,20041102,N/A,NANTUCKET,County,"5,724","2,040","Bush, George W.",Incumbent,"3,608","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,76,"1,568",D,35.64,63.03,.00,1.33,36.12,63.88,,,
+President,Massachusetts,20041102,N/A,NORFOLK,County,"331,137","127,763","Bush, George W.",Incumbent,"199,392","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"3,982","71,629",D,38.58,60.21,.00,1.20,39.05,60.95,,,
+President,Massachusetts,20041102,N/A,PLYMOUTH,County,"233,297","105,603","Bush, George W.",Incumbent,"125,178","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,516","19,575",D,45.27,53.66,.00,1.08,45.76,54.24,,,
+President,Massachusetts,20041102,N/A,SUFFOLK,County,"240,645","54,923","Bush, George W.",Incumbent,"182,592","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"3,130","127,669",D,22.82,75.88,.00,1.30,23.12,76.88,,,
+President,Massachusetts,20041102,N/A,WORCESTER,County,"340,636","144,094","Bush, George W.",Incumbent,"192,142","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"4,400","48,048",D,42.30,56.41,.00,1.29,42.86,57.14,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Massachusetts,"2,912,388","1,071,109","1,803,800",N/A,"37,479","732,691",D,"732,691",D,36.78,61.94,.00,1.29,37.26,62.74
+,
+,
+,

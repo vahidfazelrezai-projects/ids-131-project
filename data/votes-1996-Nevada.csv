@@ -1,0 +1,26 @@
+PRESIDENT 1996
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Nevada,19961105,N/A,CARSON CITY,County,"18,814","9,168","Dole, Robert",Challenger,"7,269","Clinton, Bill",Incumbent,Reform,"1,591","Perot, Ross",Challenger,786,"1,899",R,48.73,38.64,8.46,4.18,55.78,44.22,,,
+President,Nevada,19961105,N/A,CHURCHILL,County,"7,763","4,369","Dole, Robert",Challenger,"2,282","Clinton, Bill",Incumbent,Reform,821,"Perot, Ross",Challenger,291,"2,087",R,56.28,29.40,10.58,3.75,65.69,34.31,,,
+President,Nevada,19961105,N/A,CLARK,County,"262,710","103,431","Dole, Robert",Challenger,"127,963","Clinton, Bill",Incumbent,Reform,"23,177","Perot, Ross",Challenger,"8,139","24,532",D,39.37,48.71,8.82,3.10,44.70,55.30,,,
+President,Nevada,19961105,N/A,DOUGLAS,County,"16,100","8,828","Dole, Robert",Challenger,"5,109","Clinton, Bill",Incumbent,Reform,"1,486","Perot, Ross",Challenger,677,"3,719",R,54.83,31.73,9.23,4.20,63.34,36.66,,,
+President,Nevada,19961105,N/A,ELKO,County,"11,857","6,512","Dole, Robert",Challenger,"3,149","Clinton, Bill",Incumbent,Reform,"1,539","Perot, Ross",Challenger,657,"3,363",R,54.92,26.56,12.98,5.54,67.41,32.59,,,
+President,Nevada,19961105,N/A,ESMERALDA,County,546,277,"Dole, Robert",Challenger,140,"Clinton, Bill",Incumbent,Reform,91,"Perot, Ross",Challenger,38,137,R,50.73,25.64,16.67,6.96,66.43,33.57,,,
+President,Nevada,19961105,N/A,EUREKA,County,688,412,"Dole, Robert",Challenger,158,"Clinton, Bill",Incumbent,Reform,90,"Perot, Ross",Challenger,28,254,R,59.88,22.97,13.08,4.07,72.28,27.72,,,
+President,Nevada,19961105,N/A,HUMBOLDT,County,"4,590","2,334","Dole, Robert",Challenger,"1,467","Clinton, Bill",Incumbent,Reform,603,"Perot, Ross",Challenger,186,867,R,50.85,31.96,13.14,4.05,61.40,38.60,,,
+President,Nevada,19961105,N/A,LANDER,County,"2,215","1,107","Dole, Robert",Challenger,660,"Clinton, Bill",Incumbent,Reform,361,"Perot, Ross",Challenger,87,447,R,49.98,29.80,16.30,3.93,62.65,37.35,,,
+President,Nevada,19961105,N/A,LINCOLN,County,"1,783",936,"Dole, Robert",Challenger,499,"Clinton, Bill",Incumbent,Reform,255,"Perot, Ross",Challenger,93,437,R,52.50,27.99,14.30,5.22,65.23,34.77,,,
+President,Nevada,19961105,N/A,LYON,County,"9,699","4,753","Dole, Robert",Challenger,"3,419","Clinton, Bill",Incumbent,Reform,"1,104","Perot, Ross",Challenger,423,"1,334",R,49.01,35.25,11.38,4.36,58.16,41.84,,,
+President,Nevada,19961105,N/A,MINERAL,County,"2,318",814,"Dole, Robert",Challenger,"1,068","Clinton, Bill",Incumbent,Reform,361,"Perot, Ross",Challenger,75,254,D,35.12,46.07,15.57,3.24,43.25,56.75,,,
+President,Nevada,19961105,N/A,NYE,County,"9,211","3,979","Dole, Robert",Challenger,"3,300","Clinton, Bill",Incumbent,Reform,"1,544","Perot, Ross",Challenger,388,679,R,43.20,35.83,16.76,4.21,54.66,45.34,,,
+President,Nevada,19961105,N/A,PERSHING,County,"1,569",743,"Dole, Robert",Challenger,565,"Clinton, Bill",Incumbent,Reform,203,"Perot, Ross",Challenger,58,178,R,47.36,36.01,12.94,3.70,56.80,43.20,,,
+President,Nevada,19961105,N/A,STOREY,County,"1,655",705,"Dole, Robert",Challenger,614,"Clinton, Bill",Incumbent,Reform,244,"Perot, Ross",Challenger,92,91,R,42.60,37.10,14.74,5.56,53.45,46.55,,,
+President,Nevada,19961105,N/A,WASHOE,County,"109,266","49,477","Dole, Robert",Challenger,"44,915","Clinton, Bill",Incumbent,Reform,"9,970","Perot, Ross",Challenger,"4,904","4,562",R,45.28,41.11,9.12,4.49,52.42,47.58,,,
+President,Nevada,19961105,N/A,WHITE PINE,County,"3,495","1,399","Dole, Robert",Challenger,"1,397","Clinton, Bill",Incumbent,Reform,546,"Perot, Ross",Challenger,153,2,R,40.03,39.97,15.62,4.38,50.04,49.96,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Nevada,"464,279","199,244","203,974","43,986","17,075","4,730",D,"4,730",D,42.91,43.93,9.47,3.68,49.41,50.59
+,
+,
+,

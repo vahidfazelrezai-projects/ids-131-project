@@ -1,0 +1,24 @@
+PRESIDENT 1996
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,19961105,N/A,APACHE,County,"18,684","4,761","Dole, Robert",Challenger,"12,394","Clinton, Bill",Incumbent,Reform,"1,296","Perot, Ross",Challenger,233,"7,633",D,25.48,66.33,6.94,1.25,27.75,72.25,,,
+President,Arizona,19961105,N/A,COCHISE,County,"31,923","14,365","Dole, Robert",Challenger,"13,782","Clinton, Bill",Incumbent,Reform,"3,346","Perot, Ross",Challenger,430,583,R,45.00,43.17,10.48,1.35,51.04,48.96,,,
+President,Arizona,19961105,N/A,COCONINO,County,"38,522","13,638","Dole, Robert",Challenger,"20,475","Clinton, Bill",Incumbent,Reform,"3,666","Perot, Ross",Challenger,743,"6,837",D,35.40,53.15,9.52,1.93,39.98,60.02,,,
+President,Arizona,19961105,N/A,GILA,County,"17,411","6,407","Dole, Robert",Challenger,"8,577","Clinton, Bill",Incumbent,Reform,"2,211","Perot, Ross",Challenger,216,"2,170",D,36.80,49.26,12.70,1.24,42.76,57.24,,,
+President,Arizona,19961105,N/A,GRAHAM,County,"9,296","4,222","Dole, Robert",Challenger,"3,938","Clinton, Bill",Incumbent,Reform,"1,034","Perot, Ross",Challenger,102,284,R,45.42,42.36,11.12,1.10,51.74,48.26,,,
+President,Arizona,19961105,N/A,GREENLEE,County,"3,393","1,159","Dole, Robert",Challenger,"1,755","Clinton, Bill",Incumbent,Reform,426,"Perot, Ross",Challenger,53,596,D,34.16,51.72,12.56,1.56,39.77,60.23,,,
+President,Arizona,19961105,N/A,LA PAZ,County,"4,493","1,902","Dole, Robert",Challenger,"1,964","Clinton, Bill",Incumbent,Reform,597,"Perot, Ross",Challenger,30,62,D,42.33,43.71,13.29,.67,49.20,50.80,,,
+President,Arizona,19961105,N/A,MARICOPA,County,"817,432","386,015","Dole, Robert",Challenger,"363,991","Clinton, Bill",Incumbent,Reform,"58,479","Perot, Ross",Challenger,"8,947","22,024",R,47.22,44.53,7.15,1.09,51.47,48.53,,,
+President,Arizona,19961105,N/A,MOHAVE,County,"41,533","17,997","Dole, Robert",Challenger,"16,629","Clinton, Bill",Incumbent,Reform,"6,369","Perot, Ross",Challenger,538,"1,368",R,43.33,40.04,15.33,1.30,51.98,48.02,,,
+President,Arizona,19961105,N/A,NAVAJO,County,"24,938","9,262","Dole, Robert",Challenger,"12,912","Clinton, Bill",Incumbent,Reform,"2,461","Perot, Ross",Challenger,303,"3,650",D,37.14,51.78,9.87,1.22,41.77,58.23,,,
+President,Arizona,19961105,N/A,PIMA,County,"264,552","104,121","Dole, Robert",Challenger,"137,983","Clinton, Bill",Incumbent,Reform,"18,809","Perot, Ross",Challenger,"3,639","33,862",D,39.36,52.16,7.11,1.38,43.01,56.99,,,
+President,Arizona,19961105,N/A,PINAL,County,"36,895","13,034","Dole, Robert",Challenger,"19,579","Clinton, Bill",Incumbent,Reform,"3,972","Perot, Ross",Challenger,310,"6,545",D,35.33,53.07,10.77,.84,39.97,60.03,,,
+President,Arizona,19961105,N/A,SANTA CRUZ,County,"8,167","2,256","Dole, Robert",Challenger,"5,241","Clinton, Bill",Incumbent,Reform,600,"Perot, Ross",Challenger,70,"2,985",D,27.62,64.17,7.35,.86,30.09,69.91,,,
+President,Arizona,19961105,N/A,YAVAPAI,County,"59,495","29,921","Dole, Robert",Challenger,"21,801","Clinton, Bill",Incumbent,Reform,"6,649","Perot, Ross",Challenger,"1,124","8,120",R,50.29,36.64,11.18,1.89,57.85,42.15,,,
+President,Arizona,19961105,N/A,YUMA,County,"27,671","13,013","Dole, Robert",Challenger,"12,267","Clinton, Bill",Incumbent,Reform,"2,157","Perot, Ross",Challenger,234,746,R,47.03,44.33,7.80,.85,51.48,48.52,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"1,404,405","622,073","653,288","112,072","16,972","31,215",D,"31,215",D,44.29,46.52,7.98,1.21,48.78,51.22
+,
+,
+,

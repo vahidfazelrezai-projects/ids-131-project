@@ -1,0 +1,17 @@
+PRESIDENT 1996
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,19961105,N/A,FAIRFIELD,County,"352,228","144,632","Dole, Robert",Challenger,"172,337","Clinton, Bill",Incumbent,Reform,"27,328","Perot, Ross",Challenger,"7,931","27,705",D,41.06,48.93,7.76,2.25,45.63,54.37,,,
+President,Connecticut,19961105,N/A,HARTFORD,County,"356,842","111,566","Dole, Robert",Challenger,"203,549","Clinton, Bill",Incumbent,Reform,"33,685","Perot, Ross",Challenger,"8,042","91,983",D,31.26,57.04,9.44,2.25,35.40,64.60,,,
+President,Connecticut,19961105,N/A,LITCHFIELD,County,"81,398","31,645","Dole, Robert",Challenger,"37,375","Clinton, Bill",Incumbent,Reform,"9,646","Perot, Ross",Challenger,"2,732","5,730",D,38.88,45.92,11.85,3.36,45.85,54.15,,,
+President,Connecticut,19961105,N/A,MIDDLESEX,County,"71,788","22,960","Dole, Robert",Challenger,"37,695","Clinton, Bill",Incumbent,Reform,"9,136","Perot, Ross",Challenger,"1,997","14,735",D,31.98,52.51,12.73,2.78,37.85,62.15,,,
+President,Connecticut,19961105,N/A,NEW HAVEN,County,"325,891","106,636","Dole, Robert",Challenger,"178,323","Clinton, Bill",Incumbent,Reform,"33,454","Perot, Ross",Challenger,"7,478","71,687",D,32.72,54.72,10.27,2.29,37.42,62.58,,,
+President,Connecticut,19961105,N/A,NEW LONDON,County,"103,095","33,039","Dole, Robert",Challenger,"54,377","Clinton, Bill",Incumbent,Reform,"12,916","Perot, Ross",Challenger,"2,763","21,338",D,32.05,52.74,12.53,2.68,37.80,62.20,,,
+President,Connecticut,19961105,N/A,TOLLAND,County,"58,626","19,394","Dole, Robert",Challenger,"30,007","Clinton, Bill",Incumbent,Reform,"7,164","Perot, Ross",Challenger,"2,061","10,613",D,33.08,51.18,12.22,3.52,39.26,60.74,,,
+President,Connecticut,19961105,N/A,WINDHAM,County,"42,746","13,237","Dole, Robert",Challenger,"22,077","Clinton, Bill",Incumbent,Reform,"6,194","Perot, Ross",Challenger,"1,238","8,840",D,30.97,51.65,14.49,2.90,37.48,62.52,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"1,392,614","483,109","735,740","139,523","34,242","252,631",D,"252,631",D,34.69,52.83,10.02,2.46,39.64,60.36
+,
+,
+,

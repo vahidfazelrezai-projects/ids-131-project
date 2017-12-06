@@ -1,0 +1,23 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Vermont,19601108,N/A,ADDISON,County,"8,489","5,520","Nixon, Richard M.",Challenger,"2,969","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,551",R,65.03,34.97,.00,.00,65.03,34.97,,,
+President,Vermont,19601108,N/A,BENNINGTON,County,"11,602","7,099","Nixon, Richard M.",Challenger,"4,502","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,1,"2,597",R,61.19,38.80,.00,.01,61.19,38.81,,,
+President,Vermont,19601108,N/A,CALEDONIA,County,"9,597","6,688","Nixon, Richard M.",Challenger,"2,909","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,779",R,69.69,30.31,.00,.00,69.69,30.31,,,
+President,Vermont,19601108,N/A,CHITTENDEN,County,"30,031","13,072","Nixon, Richard M.",Challenger,"16,959","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,887",D,43.53,56.47,.00,.00,43.53,56.47,,,
+President,Vermont,19601108,N/A,ESSEX,County,"2,502","1,439","Nixon, Richard M.",Challenger,"1,063","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,376,R,57.51,42.49,.00,.00,57.51,42.49,,,
+President,Vermont,19601108,N/A,FRANKLIN,County,"12,472","5,444","Nixon, Richard M.",Challenger,"7,028","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"1,584",D,43.65,56.35,.00,.00,43.65,56.35,,,
+President,Vermont,19601108,N/A,GRAND ISLE,County,"1,617",798,"Nixon, Richard M.",Challenger,819,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,21,D,49.35,50.65,.00,.00,49.35,50.65,,,
+President,Vermont,19601108,N/A,LAMOILLE,County,"4,304","3,272","Nixon, Richard M.",Challenger,"1,032","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,240",R,76.02,23.98,.00,.00,76.02,23.98,,,
+President,Vermont,19601108,N/A,ORANGE,County,"6,944","5,363","Nixon, Richard M.",Challenger,"1,581","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,782",R,77.23,22.77,.00,.00,77.23,22.77,,,
+President,Vermont,19601108,N/A,ORLEANS,County,"8,381","5,027","Nixon, Richard M.",Challenger,"3,354","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"1,673",R,59.98,40.02,.00,.00,59.98,40.02,,,
+President,Vermont,19601108,N/A,RUTLAND,County,"21,412","12,166","Nixon, Richard M.",Challenger,"9,246","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,920",R,56.82,43.18,.00,.00,56.82,43.18,,,
+President,Vermont,19601108,N/A,WASHINGTON,County,"17,578","10,458","Nixon, Richard M.",Challenger,"7,116","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,4,"3,342",R,59.49,40.48,.00,.02,59.51,40.49,,,
+President,Vermont,19601108,N/A,WINDHAM,County,"13,486","9,128","Nixon, Richard M.",Challenger,"4,358","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"4,770",R,67.69,32.31,.00,.00,67.69,32.31,,,
+President,Vermont,19601108,N/A,WINDSOR,County,"18,909","12,657","Nixon, Richard M.",Challenger,"6,250","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,2,"6,407",R,66.94,33.05,.00,.01,66.94,33.06,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Vermont,"167,324","98,131","69,186",N/A,7,"28,945",R,"28,945",R,58.65,41.35,.00,.00,58.65,41.35
+,
+,
+,

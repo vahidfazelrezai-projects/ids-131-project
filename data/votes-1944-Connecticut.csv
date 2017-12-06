@@ -1,0 +1,17 @@
+PRESIDENT 1944
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,19441107,N/A,FAIRFIELD,County,"205,297","103,693","Dewey, Thomas E.",Challenger,"99,181","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,"2,423","4,512",R,50.51,48.31,.00,1.18,51.11,48.89,,,
+President,Connecticut,19441107,N/A,HARTFORD,County,"224,218","95,224","Dewey, Thomas E.",Challenger,"127,841","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,"1,153","32,617",D,42.47,57.02,.00,.51,42.69,57.31,,,
+President,Connecticut,19441107,N/A,LITCHFIELD,County,"43,479","24,019","Dewey, Thomas E.",Challenger,"19,212","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,248,"4,807",R,55.24,44.19,.00,.57,55.56,44.44,,,
+President,Connecticut,19441107,N/A,MIDDLESEX,County,"28,042","14,315","Dewey, Thomas E.",Challenger,"13,551","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,176,764,R,51.05,48.32,.00,.63,51.37,48.63,,,
+President,Connecticut,19441107,N/A,NEW HAVEN,County,"234,144","108,883","Dewey, Thomas E.",Challenger,"123,450","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,"1,811","14,567",D,46.50,52.72,.00,.77,46.87,53.13,,,
+President,Connecticut,19441107,N/A,NEW LONDON,County,"53,742","24,153","Dewey, Thomas E.",Challenger,"29,304","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,285,"5,151",D,44.94,54.53,.00,.53,45.18,54.82,,,
+President,Connecticut,19441107,N/A,TOLLAND,County,"16,046","8,208","Dewey, Thomas E.",Challenger,"7,721","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,117,487,R,51.15,48.12,.00,.73,51.53,48.47,,,
+President,Connecticut,19441107,N/A,WINDHAM,County,"27,022","12,032","Dewey, Thomas E.",Challenger,"14,886","Roosevelt, Franklin D.",Incumbent,N/A,N/A,N/A,N/A,104,"2,854",D,44.53,55.09,.00,.38,44.70,55.30,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"831,990","390,527","435,146",N/A,"6,317","44,619",D,"44,619",D,46.94,52.30,.00,.76,47.30,52.70
+,
+,
+,

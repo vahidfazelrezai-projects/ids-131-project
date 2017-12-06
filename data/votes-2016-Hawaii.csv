@@ -1,0 +1,13 @@
+PRESIDENT 2016
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Hawaii,20161108,N/A,HAWAII,County,"64,867","17,501","Trump, Donald J.",Challenger,"41,259","Clinton, Hillary Rodham",Challenger,Independent,"2,470","Johnson, Gary E.",Challenger,"3,637","23,758",D,26.98,63.61,3.81,5.61,29.78,70.22,"The other vote was: Stein, Jill (Independent) 2,852; Castle, Darrell (Independent) 785",,"The other vote was: Stein, Jill (Independent) 2,852; Castle, Darrell (Independent) 785"
+President,Hawaii,20161108,N/A,HONOLULU,County,"285,790","90,326","Trump, Donald J.",Challenger,"175,696","Clinton, Hillary Rodham",Challenger,Independent,"10,467","Johnson, Gary E.",Challenger,"9,301","85,370",D,31.61,61.48,3.66,3.25,33.95,66.05,"The other vote was: Stein, Jill (Independent) 6,476; Castle, Darrell (Independent) 2,825",,"The other vote was: Stein, Jill (Independent) 6,476; Castle, Darrell (Independent) 2,825"
+President,Hawaii,20161108,N/A,KAUAI,County,"26,335","7,574","Trump, Donald J.",Challenger,"16,456","Clinton, Hillary Rodham",Challenger,Independent,982,"Johnson, Gary E.",Challenger,"1,323","8,882",D,28.76,62.49,3.73,5.02,31.52,68.48,"The other vote was: Stein, Jill (Independent) 1,019; Castle, Darrell (Independent) 304",,"The other vote was: Stein, Jill (Independent) 1,019; Castle, Darrell (Independent) 304"
+President,Hawaii,20161108,N/A,MAUI,County,"51,945","13,446","Trump, Donald J.",Challenger,"33,480","Clinton, Hillary Rodham",Challenger,Independent,"2,035","Johnson, Gary E.",Challenger,"2,984","20,034",D,25.89,64.45,3.92,5.74,28.65,71.35,"The other vote was: Stein, Jill (Independent) 2,390; Castle, Darrell (Independent) 594",,"The other vote was: Stein, Jill (Independent) 2,390; Castle, Darrell (Independent) 594"
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Hawaii,"428,937","128,847","266,891","15,954","17,245","138,044",D,"138,044",D,30.04,62.22,3.72,4.02,32.56,67.44
+,
+,
+,

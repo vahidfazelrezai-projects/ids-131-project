@@ -1,0 +1,26 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Nevada,20041102,N/A,CARSON CITY,County,"23,106","13,171","Bush, George W.",Incumbent,"9,441","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,494,"3,730",R,57.00,40.86,.00,2.14,58.25,41.75,,,
+President,Nevada,20041102,N/A,CHURCHILL,County,"10,237","7,335","Bush, George W.",Incumbent,"2,705","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,197,"4,630",R,71.65,26.42,.00,1.92,73.06,26.94,,,
+President,Nevada,20041102,N/A,CLARK,County,"545,397","255,337","Bush, George W.",Incumbent,"281,767","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"8,293","26,430",D,46.82,51.66,.00,1.52,47.54,52.46,,,
+President,Nevada,20041102,N/A,DOUGLAS,County,"23,898","15,192","Bush, George W.",Incumbent,"8,275","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,431,"6,917",R,63.57,34.63,.00,1.80,64.74,35.26,,,
+President,Nevada,20041102,N/A,ELKO,County,"15,309","11,938","Bush, George W.",Incumbent,"3,050","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,321,"8,888",R,77.98,19.92,.00,2.10,79.65,20.35,,,
+President,Nevada,20041102,N/A,ESMERALDA,County,481,367,"Bush, George W.",Incumbent,99,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,15,268,R,76.30,20.58,.00,3.12,78.76,21.24,,,
+President,Nevada,20041102,N/A,EUREKA,County,738,571,"Bush, George W.",Incumbent,144,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,23,427,R,77.37,19.51,.00,3.12,79.86,20.14,,,
+President,Nevada,20041102,N/A,HUMBOLDT,County,"5,367","3,896","Bush, George W.",Incumbent,"1,361","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,110,"2,535",R,72.59,25.36,.00,2.05,74.11,25.89,,,
+President,Nevada,20041102,N/A,LANDER,County,"2,053","1,602","Bush, George W.",Incumbent,414,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,37,"1,188",R,78.03,20.17,.00,1.80,79.46,20.54,,,
+President,Nevada,20041102,N/A,LINCOLN,County,"2,047","1,579","Bush, George W.",Incumbent,418,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,50,"1,161",R,77.14,20.42,.00,2.44,79.07,20.93,,,
+President,Nevada,20041102,N/A,LYON,County,"17,151","11,136","Bush, George W.",Incumbent,"5,637","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,378,"5,499",R,64.93,32.87,.00,2.20,66.39,33.61,,,
+President,Nevada,20041102,N/A,MINERAL,County,"2,327","1,336","Bush, George W.",Incumbent,931,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,60,405,R,57.41,40.01,.00,2.58,58.93,41.07,,,
+President,Nevada,20041102,N/A,NYE,County,"14,510","8,487","Bush, George W.",Incumbent,"5,616","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,407,"2,871",R,58.49,38.70,.00,2.80,60.18,39.82,,,
+President,Nevada,20041102,N/A,PERSHING,County,"1,917","1,341","Bush, George W.",Incumbent,538,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,38,803,R,69.95,28.06,.00,1.98,71.37,28.63,,,
+President,Nevada,20041102,N/A,STOREY,County,"2,168","1,253","Bush, George W.",Incumbent,871,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,44,382,R,57.80,40.18,.00,2.03,58.99,41.01,,,
+President,Nevada,20041102,N/A,WASHOE,County,"159,079","81,545","Bush, George W.",Incumbent,"74,841","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,693","6,704",R,51.26,47.05,.00,1.69,52.14,47.86,,,
+President,Nevada,20041102,N/A,WHITE PINE,County,"3,802","2,604","Bush, George W.",Incumbent,"1,082","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,116,"1,522",R,68.49,28.46,.00,3.05,70.65,29.35,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Nevada,"829,587","418,690","397,190",N/A,"13,707","21,500",R,"21,500",R,50.47,47.88,.00,1.65,51.32,48.68
+,
+,
+,

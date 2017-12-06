@@ -1,0 +1,19 @@
+PRESIDENT 1988
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,New Hampshire,19881108,N/A,BELKNAP,County,"21,280","14,454","Bush, George H.",Challenger,"6,603","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,223,"7,851",R,67.92,31.03,.00,1.05,68.64,31.36,,,
+President,New Hampshire,19881108,N/A,CARROLL,County,"18,344","12,983","Bush, George H.",Challenger,"5,153","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,208,"7,830",R,70.78,28.09,.00,1.13,71.59,28.41,,,
+President,New Hampshire,19881108,N/A,CHESHIRE,County,"27,512","15,002","Bush, George H.",Challenger,"12,339","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,171,"2,663",R,54.53,44.85,.00,.62,54.87,45.13,,,
+President,New Hampshire,19881108,N/A,COOS,County,"13,900","8,763","Bush, George H.",Challenger,"4,981","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,156,"3,782",R,63.04,35.83,.00,1.12,63.76,36.24,,,
+President,New Hampshire,19881108,N/A,GRAFTON,County,"30,699","19,033","Bush, George H.",Challenger,"11,484","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,182,"7,549",R,62.00,37.41,.00,.59,62.37,37.63,,,
+President,New Hampshire,19881108,N/A,HILLSBOROUGH,County,"135,778","88,261","Bush, George H.",Challenger,"45,799","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"1,718","42,462",R,65.00,33.73,.00,1.27,65.84,34.16,,,
+President,New Hampshire,19881108,N/A,MERRIMACK,County,"48,686","29,535","Bush, George H.",Challenger,"18,637","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,514,"10,898",R,60.66,38.28,.00,1.06,61.31,38.69,,,
+President,New Hampshire,19881108,N/A,ROCKINGHAM,County,"101,747","64,034","Bush, George H.",Challenger,"35,775","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"1,938","28,259",R,62.93,35.16,.00,1.90,64.16,35.84,,,
+President,New Hampshire,19881108,N/A,STRAFFORD,County,"37,845","20,636","Bush, George H.",Challenger,"16,547","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,662,"4,089",R,54.53,43.72,.00,1.75,55.50,44.50,,,
+President,New Hampshire,19881108,N/A,SULLIVAN,County,"15,283","8,836","Bush, George H.",Challenger,"6,378","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,69,"2,458",R,57.82,41.73,.00,.45,58.08,41.92,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,New Hampshire,"451,074","281,537","163,696",N/A,"5,841","117,841",R,"117,841",R,62.41,36.29,.00,1.29,63.23,36.77
+,
+,
+,

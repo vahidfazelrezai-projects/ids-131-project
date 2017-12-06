@@ -1,0 +1,23 @@
+PRESIDENT 1996
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Massachusetts,19961105,N/A,BARNSTABLE,County,"110,737","40,144","Dole, Robert",Challenger,"59,223","Clinton, Bill",Incumbent,Reform,"9,889","Perot, Ross",Challenger,"1,481","19,079",D,36.25,53.48,8.93,1.34,40.40,59.60,,,
+President,Massachusetts,19961105,N/A,BERKSHIRE,County,"60,774","13,055","Dole, Robert",Challenger,"39,338","Clinton, Bill",Incumbent,Reform,"7,569","Perot, Ross",Challenger,812,"26,283",D,21.48,64.73,12.45,1.34,24.92,75.08,,,
+President,Massachusetts,19961105,N/A,BRISTOL,County,"198,213","47,164","Dole, Robert",Challenger,"127,725","Clinton, Bill",Incumbent,Reform,"21,438","Perot, Ross",Challenger,"1,886","80,561",D,23.79,64.44,10.82,.95,26.97,73.03,,,
+President,Massachusetts,19961105,N/A,DUKES,County,"7,702","1,739","Dole, Robert",Challenger,"5,137","Clinton, Bill",Incumbent,Reform,657,"Perot, Ross",Challenger,169,"3,398",D,22.58,66.70,8.53,2.19,25.29,74.71,,,
+President,Massachusetts,19961105,N/A,ESSEX,County,"291,442","89,120","Dole, Robert",Challenger,"171,021","Clinton, Bill",Incumbent,Reform,"27,068","Perot, Ross",Challenger,"4,233","81,901",D,30.58,58.68,9.29,1.45,34.26,65.74,,,
+President,Massachusetts,19961105,N/A,FRANKLIN,County,"32,742","8,055","Dole, Robert",Challenger,"19,728","Clinton, Bill",Incumbent,Reform,"3,848","Perot, Ross",Challenger,"1,111","11,673",D,24.60,60.25,11.75,3.39,28.99,71.01,,,
+President,Massachusetts,19961105,N/A,HAMPDEN,County,"172,239","48,513","Dole, Robert",Challenger,"105,050","Clinton, Bill",Incumbent,Reform,"16,942","Perot, Ross",Challenger,"1,734","56,537",D,28.17,60.99,9.84,1.01,31.59,68.41,,,
+President,Massachusetts,19961105,N/A,HAMPSHIRE,County,"65,309","14,787","Dole, Robert",Challenger,"41,844","Clinton, Bill",Incumbent,Reform,"6,589","Perot, Ross",Challenger,"2,089","27,057",D,22.64,64.07,10.09,3.20,26.11,73.89,,,
+President,Massachusetts,19961105,N/A,MIDDLESEX,County,"627,977","169,926","Dole, Robert",Challenger,"398,190","Clinton, Bill",Incumbent,Reform,"48,112","Perot, Ross",Challenger,"11,749","228,264",D,27.06,63.41,7.66,1.87,29.91,70.09,,,
+President,Massachusetts,19961105,N/A,NANTUCKET,County,"4,159","1,222","Dole, Robert",Challenger,"2,453","Clinton, Bill",Incumbent,Reform,400,"Perot, Ross",Challenger,84,"1,231",D,29.38,58.98,9.62,2.02,33.25,66.75,,,
+President,Massachusetts,19961105,N/A,NORFOLK,County,"300,471","92,982","Dole, Robert",Challenger,"180,504","Clinton, Bill",Incumbent,Reform,"22,949","Perot, Ross",Challenger,"4,036","87,522",D,30.95,60.07,7.64,1.34,34.00,66.00,,,
+President,Massachusetts,19961105,N/A,PLYMOUTH,County,"194,011","64,626","Dole, Robert",Challenger,"106,072","Clinton, Bill",Incumbent,Reform,"20,808","Perot, Ross",Challenger,"2,505","41,446",D,33.31,54.67,10.73,1.29,37.86,62.14,,,
+President,Massachusetts,19961105,N/A,SUFFOLK,County,"199,392","39,753","Dole, Robert",Challenger,"145,586","Clinton, Bill",Incumbent,Reform,"10,980","Perot, Ross",Challenger,"3,073","105,833",D,19.94,73.01,5.51,1.54,21.45,78.55,,,
+President,Massachusetts,19961105,N/A,WORCESTER,County,"291,617","87,021","Dole, Robert",Challenger,"169,892","Clinton, Bill",Incumbent,Reform,"29,968","Perot, Ross",Challenger,"4,736","82,871",D,29.84,58.26,10.28,1.62,33.87,66.13,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Massachusetts,"2,556,785","718,107","1,571,763","227,217","39,698","853,656",D,"853,656",D,28.09,61.47,8.89,1.55,31.36,68.64
+,
+,
+,

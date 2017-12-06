@@ -1,0 +1,19 @@
+PRESIDENT 1948
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,New Hampshire,19481102,N/A,BELKNAP,County,"11,039","7,152","Dewey, Thomas E.",Challenger,"3,822","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,65,"3,330",R,64.79,34.62,.00,.59,65.17,34.83,,,
+President,New Hampshire,19481102,N/A,CARROLL,County,"8,050","6,127","Dewey, Thomas E.",Challenger,"1,869","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,54,"4,258",R,76.11,23.22,.00,.67,76.63,23.37,,,
+President,New Hampshire,19481102,N/A,CHESHIRE,County,"15,506","9,043","Dewey, Thomas E.",Challenger,"6,337","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,126,"2,706",R,58.32,40.87,.00,.81,58.80,41.20,,,
+President,New Hampshire,19481102,N/A,COOS,County,"15,165","7,005","Dewey, Thomas E.",Challenger,"7,930","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,230,925,D,46.19,52.29,.00,1.52,46.90,53.10,,,
+President,New Hampshire,19481102,N/A,GRAFTON,County,"19,281","12,248","Dewey, Thomas E.",Challenger,"6,841","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,192,"5,407",R,63.52,35.48,.00,1.00,64.16,35.84,,,
+President,New Hampshire,19481102,N/A,HILLSBOROUGH,County,"70,742","28,257","Dewey, Thomas E.",Challenger,"41,789","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,696,"13,532",D,39.94,59.07,.00,.98,40.34,59.66,,,
+President,New Hampshire,19481102,N/A,MERRIMACK,County,"27,935","16,586","Dewey, Thomas E.",Challenger,"11,171","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,178,"5,415",R,59.37,39.99,.00,.64,59.75,40.25,,,
+President,New Hampshire,19481102,N/A,ROCKINGHAM,County,"31,128","18,890","Dewey, Thomas E.",Challenger,"11,937","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,301,"6,953",R,60.68,38.35,.00,.97,61.28,38.72,,,
+President,New Hampshire,19481102,N/A,STRAFFORD,County,"21,776","9,988","Dewey, Thomas E.",Challenger,"11,603","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,185,"1,615",D,45.87,53.28,.00,.85,46.26,53.74,,,
+President,New Hampshire,19481102,N/A,SULLIVAN,County,"10,818","6,003","Dewey, Thomas E.",Challenger,"4,696","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,119,"1,307",R,55.49,43.41,.00,1.10,56.11,43.89,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,New Hampshire,"231,440","121,299","107,995",N/A,"2,146","13,304",R,"13,304",R,52.41,46.66,.00,.93,52.90,47.10
+,
+,
+,

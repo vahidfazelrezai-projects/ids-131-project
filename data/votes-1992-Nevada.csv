@@ -1,0 +1,26 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Nevada,19921103,N/A,CARSON CITY,County,"18,803","7,302","Bush, George H.",Incumbent,"6,035","Clinton, Bill",Challenger,Reform,"5,195","Perot, Ross",Challenger,271,"1,267",R,38.83,32.10,27.63,1.44,54.75,45.25,,,
+President,Nevada,19921103,N/A,CHURCHILL,County,"7,663","3,789","Bush, George H.",Incumbent,"1,770","Clinton, Bill",Challenger,Reform,"1,964","Perot, Ross",Challenger,140,"1,825",R,49.45,23.10,25.63,1.83,68.16,31.84,,,
+President,Nevada,19921103,N/A,CLARK,County,"302,782","97,403","Bush, George H.",Incumbent,"124,586","Clinton, Bill",Challenger,Reform,"75,364","Perot, Ross",Challenger,"5,429","27,183",D,32.17,41.15,24.89,1.79,43.88,56.12,,,
+President,Nevada,19921103,N/A,DOUGLAS,County,"15,145","6,182","Bush, George H.",Incumbent,"3,928","Clinton, Bill",Challenger,Reform,"4,814","Perot, Ross",Challenger,221,"1,368",R,40.82,25.94,31.79,1.46,61.15,38.85,,,
+President,Nevada,19921103,N/A,ELKO,County,"11,926","5,208","Bush, George H.",Incumbent,"2,782","Clinton, Bill",Challenger,Reform,"3,628","Perot, Ross",Challenger,308,"1,580",R,43.67,23.33,30.42,2.58,65.18,34.82,,,
+President,Nevada,19921103,N/A,ESMERALDA,County,584,221,"Bush, George H.",Incumbent,118,"Clinton, Bill",Challenger,Reform,220,"Perot, Ross",Challenger,25,1,R,37.84,20.21,37.67,4.28,65.19,34.81,,,
+President,Nevada,19921103,N/A,EUREKA,County,690,330,"Bush, George H.",Incumbent,129,"Clinton, Bill",Challenger,Reform,214,"Perot, Ross",Challenger,17,116,R,47.83,18.70,31.01,2.46,71.90,28.10,,,
+President,Nevada,19921103,N/A,HUMBOLDT,County,"3,523","1,505","Bush, George H.",Incumbent,810,"Clinton, Bill",Challenger,Reform,"1,149","Perot, Ross",Challenger,59,356,R,42.72,22.99,32.61,1.67,65.01,34.99,,,
+President,Nevada,19921103,N/A,LANDER,County,"1,992",885,"Bush, George H.",Incumbent,423,"Clinton, Bill",Challenger,Reform,652,"Perot, Ross",Challenger,32,233,R,44.43,21.23,32.73,1.61,67.66,32.34,,,
+President,Nevada,19921103,N/A,LINCOLN,County,"1,857",890,"Bush, George H.",Incumbent,511,"Clinton, Bill",Challenger,Reform,394,"Perot, Ross",Challenger,62,379,R,47.93,27.52,21.22,3.34,63.53,36.47,,,
+President,Nevada,19921103,N/A,LYON,County,"9,204","3,509","Bush, George H.",Incumbent,"2,777","Clinton, Bill",Challenger,Reform,"2,716","Perot, Ross",Challenger,202,732,R,38.12,30.17,29.51,2.19,55.82,44.18,,,
+President,Nevada,19921103,N/A,MINERAL,County,"2,641",918,"Bush, George H.",Incumbent,909,"Clinton, Bill",Challenger,Reform,746,"Perot, Ross",Challenger,68,9,R,34.76,34.42,28.25,2.57,50.25,49.75,,,
+President,Nevada,19921103,N/A,NYE,County,"8,022","2,743","Bush, George H.",Incumbent,"2,561","Clinton, Bill",Challenger,Reform,"2,501","Perot, Ross",Challenger,217,182,R,34.19,31.92,31.18,2.71,51.72,48.28,,,
+President,Nevada,19921103,N/A,PERSHING,County,"1,566",643,"Bush, George H.",Incumbent,467,"Clinton, Bill",Challenger,Reform,429,"Perot, Ross",Challenger,27,176,R,41.06,29.82,27.39,1.72,57.93,42.07,,,
+President,Nevada,19921103,N/A,STOREY,County,"1,519",458,"Bush, George H.",Incumbent,488,"Clinton, Bill",Challenger,Reform,550,"Perot, Ross",Challenger,23,62,RF,30.15,32.13,36.21,1.51,48.41,51.59,,,
+President,Nevada,19921103,N/A,WASHOE,County,"114,671","42,636","Bush, George H.",Incumbent,"39,500","Clinton, Bill",Challenger,Reform,"30,974","Perot, Ross",Challenger,"1,561","3,136",R,37.18,34.45,27.01,1.36,51.91,48.09,,,
+President,Nevada,19921103,N/A,WHITE PINE,County,"3,730","1,206","Bush, George H.",Incumbent,"1,354","Clinton, Bill",Challenger,Reform,"1,070","Perot, Ross",Challenger,100,148,D,32.33,36.30,28.69,2.68,47.11,52.89,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Nevada,"506,318","175,828","189,148","132,580","8,762","13,320",D,"13,320",D,34.73,37.36,26.19,1.73,48.18,51.82
+,
+,
+,

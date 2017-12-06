@@ -1,0 +1,23 @@
+PRESIDENT 1948
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Vermont,19481102,N/A,ADDISON,County,"5,869","4,148","Dewey, Thomas E.",Challenger,"1,615","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,106,"2,533",R,70.68,27.52,.00,1.81,71.98,28.02,,,
+President,Vermont,19481102,N/A,BENNINGTON,County,"9,374","5,840","Dewey, Thomas E.",Challenger,"3,340","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,194,"2,500",R,62.30,35.63,.00,2.07,63.62,36.38,,,
+President,Vermont,19481102,N/A,CALEDONIA,County,"8,542","5,873","Dewey, Thomas E.",Challenger,"2,585","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,84,"3,288",R,68.75,30.26,.00,.98,69.44,30.56,,,
+President,Vermont,19481102,N/A,CHITTENDEN,County,"17,739","8,509","Dewey, Thomas E.",Challenger,"8,903","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,327,394,D,47.97,50.19,.00,1.84,48.87,51.13,,,
+President,Vermont,19481102,N/A,ESSEX,County,"1,946","1,055","Dewey, Thomas E.",Challenger,881,"Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,10,174,R,54.21,45.27,.00,.51,54.49,45.51,,,
+President,Vermont,19481102,N/A,FRANKLIN,County,"10,444","4,897","Dewey, Thomas E.",Challenger,"5,455","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,92,558,D,46.89,52.23,.00,.88,47.30,52.70,,,
+President,Vermont,19481102,N/A,GRAND ISLE,County,"1,563",724,"Dewey, Thomas E.",Challenger,822,"Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,17,98,D,46.32,52.59,.00,1.09,46.83,53.17,,,
+President,Vermont,19481102,N/A,LAMOILLE,County,"3,181","2,344","Dewey, Thomas E.",Challenger,816,"Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,21,"1,528",R,73.69,25.65,.00,.66,74.18,25.82,,,
+President,Vermont,19481102,N/A,ORANGE,County,"5,276","4,061","Dewey, Thomas E.",Challenger,"1,139","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,76,"2,922",R,76.97,21.59,.00,1.44,78.10,21.90,,,
+President,Vermont,19481102,N/A,ORLEANS,County,"6,004","3,775","Dewey, Thomas E.",Challenger,"2,204","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,25,"1,571",R,62.87,36.71,.00,.42,63.14,36.86,,,
+President,Vermont,19481102,N/A,RUTLAND,County,"16,853","10,206","Dewey, Thomas E.",Challenger,"6,452","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,195,"3,754",R,60.56,38.28,.00,1.16,61.27,38.73,,,
+President,Vermont,19481102,N/A,WASHINGTON,County,"12,883","7,720","Dewey, Thomas E.",Challenger,"4,839","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,324,"2,881",R,59.92,37.56,.00,2.51,61.47,38.53,,,
+President,Vermont,19481102,N/A,WINDHAM,County,"10,140","7,148","Dewey, Thomas E.",Challenger,"2,770","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,222,"4,378",R,70.49,27.32,.00,2.19,72.07,27.93,,,
+President,Vermont,19481102,N/A,WINDSOR,County,"13,568","9,626","Dewey, Thomas E.",Challenger,"3,736","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,206,"5,890",R,70.95,27.54,.00,1.52,72.04,27.96,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Vermont,"123,382","75,926","45,557",N/A,"1,899","30,369",R,"30,369",R,61.54,36.92,.00,1.54,62.50,37.50
+,
+,
+,

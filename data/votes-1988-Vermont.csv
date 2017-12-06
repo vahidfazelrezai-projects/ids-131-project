@@ -1,0 +1,23 @@
+PRESIDENT 1988
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Vermont,19881108,N/A,ADDISON,County,"13,791","6,773","Bush, George H.",Challenger,"6,791","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,227,18,D,49.11,49.24,.00,1.65,49.93,50.07,,,
+President,Vermont,19881108,N/A,BENNINGTON,County,"15,725","8,387","Bush, George H.",Challenger,"7,174","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,164,"1,213",R,53.34,45.62,.00,1.04,53.90,46.10,,,
+President,Vermont,19881108,N/A,CALEDONIA,County,"11,312","6,915","Bush, George H.",Challenger,"4,251","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,146,"2,664",R,61.13,37.58,.00,1.29,61.93,38.07,,,
+President,Vermont,19881108,N/A,CHITTENDEN,County,"57,346","27,380","Bush, George H.",Challenger,"29,185","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,781,"1,805",D,47.75,50.89,.00,1.36,48.40,51.60,,,
+President,Vermont,19881108,N/A,ESSEX,County,"2,391","1,535","Bush, George H.",Challenger,837,"Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,19,698,R,64.20,35.01,.00,.79,64.71,35.29,,,
+President,Vermont,19881108,N/A,FRANKLIN,County,"14,835","7,293","Bush, George H.",Challenger,"7,373","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,169,80,D,49.16,49.70,.00,1.14,49.73,50.27,,,
+President,Vermont,19881108,N/A,GRAND ISLE,County,"2,728","1,316","Bush, George H.",Challenger,"1,369","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,43,53,D,48.24,50.18,.00,1.58,49.01,50.99,,,
+President,Vermont,19881108,N/A,LAMOILLE,County,"8,133","4,433","Bush, George H.",Challenger,"3,561","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,139,872,R,54.51,43.78,.00,1.71,55.45,44.55,,,
+President,Vermont,19881108,N/A,ORANGE,County,"11,318","6,151","Bush, George H.",Challenger,"4,977","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,190,"1,174",R,54.35,43.97,.00,1.68,55.27,44.73,,,
+President,Vermont,19881108,N/A,ORLEANS,County,"9,611","5,257","Bush, George H.",Challenger,"4,224","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,130,"1,033",R,54.70,43.95,.00,1.35,55.45,44.55,,,
+President,Vermont,19881108,N/A,RUTLAND,County,"26,260","14,482","Bush, George H.",Challenger,"11,496","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,282,"2,986",R,55.15,43.78,.00,1.07,55.75,44.25,,,
+President,Vermont,19881108,N/A,WASHINGTON,County,"26,294","13,253","Bush, George H.",Challenger,"12,690","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,351,563,R,50.40,48.26,.00,1.33,51.09,48.91,,,
+President,Vermont,19881108,N/A,WINDHAM,County,"18,654","8,572","Bush, George H.",Challenger,"9,839","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,243,"1,267",D,45.95,52.74,.00,1.30,46.56,53.44,,,
+President,Vermont,19881108,N/A,WINDSOR,County,"24,930","12,584","Bush, George H.",Challenger,"12,009","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,337,575,R,50.48,48.17,.00,1.35,51.17,48.83,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Vermont,"243,328","124,331","115,776",N/A,"3,221","8,555",R,"8,555",R,51.10,47.58,.00,1.32,51.78,48.22
+,
+,
+,

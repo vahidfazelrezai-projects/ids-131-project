@@ -1,0 +1,23 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Vermont,20041102,N/A,ADDISON,County,"18,579","7,077","Bush, George W.",Incumbent,"11,147","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,355,"4,070",D,38.09,60.00,.00,1.91,38.83,61.17,,,
+President,Vermont,20041102,N/A,BENNINGTON,County,"19,065","7,616","Bush, George W.",Incumbent,"11,069","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,380,"3,453",D,39.95,58.06,.00,1.99,40.76,59.24,,,
+President,Vermont,20041102,N/A,CALEDONIA,County,"14,211","6,765","Bush, George W.",Incumbent,"7,106","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,340,341,D,47.60,50.00,.00,2.39,48.77,51.23,,,
+President,Vermont,20041102,N/A,CHITTENDEN,County,"77,696","26,422","Bush, George W.",Incumbent,"49,369","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,905","22,947",D,34.01,63.54,.00,2.45,34.86,65.14,,,
+President,Vermont,20041102,N/A,ESSEX,County,"2,937","1,591","Bush, George W.",Incumbent,"1,276","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,70,315,R,54.17,43.45,.00,2.38,55.49,44.51,,,
+President,Vermont,20041102,N/A,FRANKLIN,County,"19,920","8,936","Bush, George W.",Incumbent,"10,598","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,386,"1,662",D,44.86,53.20,.00,1.94,45.75,54.25,,,
+President,Vermont,20041102,N/A,GRAND ISLE,County,"4,077","1,754","Bush, George W.",Incumbent,"2,246","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,77,492,D,43.02,55.09,.00,1.89,43.85,56.15,,,
+President,Vermont,20041102,N/A,LAMOILLE,County,"12,181","4,260","Bush, George W.",Incumbent,"7,636","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,285,"3,376",D,34.97,62.69,.00,2.34,35.81,64.19,,,
+President,Vermont,20041102,N/A,ORANGE,County,"14,895","6,421","Bush, George W.",Incumbent,"8,159","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,315,"1,738",D,43.11,54.78,.00,2.11,44.04,55.96,,,
+President,Vermont,20041102,N/A,ORLEANS,County,"12,242","5,666","Bush, George W.",Incumbent,"6,330","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,246,664,D,46.28,51.71,.00,2.01,47.23,52.77,,,
+President,Vermont,20041102,N/A,RUTLAND,County,"30,975","14,440","Bush, George W.",Incumbent,"15,904","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,631,"1,464",D,46.62,51.34,.00,2.04,47.59,52.41,,,
+President,Vermont,20041102,N/A,WASHINGTON,County,"31,448","11,461","Bush, George W.",Incumbent,"19,177","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,810,"7,716",D,36.44,60.98,.00,2.58,37.41,62.59,,,
+President,Vermont,20041102,N/A,WINDHAM,County,"23,316","7,280","Bush, George W.",Incumbent,"15,489","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,547,"8,209",D,31.22,66.43,.00,2.35,31.97,68.03,,,
+President,Vermont,20041102,N/A,WINDSOR,County,"30,767","11,491","Bush, George W.",Incumbent,"18,561","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,715,"7,070",D,37.35,60.33,.00,2.32,38.24,61.76,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Vermont,"312,309","121,180","184,067",N/A,"7,062","62,887",D,"62,887",D,38.80,58.94,.00,2.26,39.70,60.30
+,
+,
+,

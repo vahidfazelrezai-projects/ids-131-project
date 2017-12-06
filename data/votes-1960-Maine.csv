@@ -1,0 +1,25 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Maine,19601108,N/A,ANDROSCOGGIN,County,"40,751","14,654","Nixon, Richard M.",Challenger,"26,097","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"11,443",D,35.96,64.04,.00,.00,35.96,64.04,,,
+President,Maine,19601108,N/A,AROOSTOOK,County,"33,497","18,698","Nixon, Richard M.",Challenger,"14,799","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,899",R,55.82,44.18,.00,.00,55.82,44.18,,,
+President,Maine,19601108,N/A,CUMBERLAND,County,"80,824","47,271","Nixon, Richard M.",Challenger,"33,553","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"13,718",R,58.49,41.51,.00,.00,58.49,41.51,,,
+President,Maine,19601108,N/A,FRANKLIN,County,"9,440","6,136","Nixon, Richard M.",Challenger,"3,304","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,832",R,65.00,35.00,.00,.00,65.00,35.00,,,
+President,Maine,19601108,N/A,HANCOCK,County,"15,482","12,119","Nixon, Richard M.",Challenger,"3,363","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"8,756",R,78.28,21.72,.00,.00,78.28,21.72,,,
+President,Maine,19601108,N/A,KENNEBEC,County,"39,951","21,699","Nixon, Richard M.",Challenger,"18,252","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,447",R,54.31,45.69,.00,.00,54.31,45.69,,,
+President,Maine,19601108,N/A,KNOX,County,"12,899","9,083","Nixon, Richard M.",Challenger,"3,816","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"5,267",R,70.42,29.58,.00,.00,70.42,29.58,,,
+President,Maine,19601108,N/A,LINCOLN,County,"9,899","7,562","Nixon, Richard M.",Challenger,"2,337","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"5,225",R,76.39,23.61,.00,.00,76.39,23.61,,,
+President,Maine,19601108,N/A,OXFORD,County,"20,666","11,715","Nixon, Richard M.",Challenger,"8,951","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,764",R,56.69,43.31,.00,.00,56.69,43.31,,,
+President,Maine,19601108,N/A,PENOBSCOT,County,"47,634","28,459","Nixon, Richard M.",Challenger,"19,175","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"9,284",R,59.75,40.25,.00,.00,59.75,40.25,,,
+President,Maine,19601108,N/A,PISCATAQUIS,County,"7,818","4,959","Nixon, Richard M.",Challenger,"2,859","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,100",R,63.43,36.57,.00,.00,63.43,36.57,,,
+President,Maine,19601108,N/A,SAGADAHOC,County,"10,351","6,386","Nixon, Richard M.",Challenger,"3,965","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,421",R,61.69,38.31,.00,.00,61.69,38.31,,,
+President,Maine,19601108,N/A,SOMERSET,County,"17,098","10,142","Nixon, Richard M.",Challenger,"6,956","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,186",R,59.32,40.68,.00,.00,59.32,40.68,,,
+President,Maine,19601108,N/A,WALDO,County,"9,689","6,844","Nixon, Richard M.",Challenger,"2,845","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,999",R,70.64,29.36,.00,.00,70.64,29.36,,,
+President,Maine,19601108,N/A,WASHINGTON,County,"13,834","9,118","Nixon, Richard M.",Challenger,"4,716","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"4,402",R,65.91,34.09,.00,.00,65.91,34.09,,,
+President,Maine,19601108,N/A,YORK,County,"51,934","25,763","Nixon, Richard M.",Challenger,"26,171","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,408,D,49.61,50.39,.00,.00,49.61,50.39,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Maine,"421,767","240,608","181,159",N/A,N/A,"59,449",R,"59,449",R,57.05,42.95,.00,.00,57.05,42.95
+,
+,
+,

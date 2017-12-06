@@ -1,0 +1,15 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Rhode Island,20041102,N/A,BRISTOL,County,"24,677","9,855","Bush, George W.",Incumbent,"14,448","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,374,"4,593",D,39.94,58.55,.00,1.52,40.55,59.45,,,
+President,Rhode Island,20041102,N/A,KENT,County,"77,842","33,699","Bush, George W.",Incumbent,"42,830","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,313","9,131",D,43.29,55.02,.00,1.69,44.03,55.97,,,
+President,Rhode Island,20041102,N/A,NEWPORT,County,"40,337","16,622","Bush, George W.",Incumbent,"22,992","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,723,"6,370",D,41.21,57.00,.00,1.79,41.96,58.04,,,
+President,Rhode Island,20041102,N/A,PROVIDENCE,County,"230,947","82,337","Bush, George W.",Incumbent,"144,811","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"3,799","62,474",D,35.65,62.70,.00,1.64,36.25,63.75,,,
+President,Rhode Island,20041102,N/A,WASHINGTON,County,"62,486","26,533","Bush, George W.",Incumbent,"34,679","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,274","8,146",D,42.46,55.50,.00,2.04,43.35,56.65,,,
+President,Rhode Island,20041102,N/A,Votes Not Reported by County,County,845,N/A,"Bush, George W.",Incumbent,N/A,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,845,845,O,.00,.00,.00,100.00,.00,.00,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Rhode Island,"437,134","169,046","259,760",N/A,"8,328","90,714",D,"90,714",D,38.67,59.42,.00,1.91,39.42,60.58
+,
+,
+,

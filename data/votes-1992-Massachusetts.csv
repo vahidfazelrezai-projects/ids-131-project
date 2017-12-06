@@ -1,0 +1,23 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Massachusetts,19921103,N/A,BARNSTABLE,County,"108,997","33,916","Bush, George H.",Incumbent,"46,641","Clinton, Bill",Challenger,Reform,"27,727","Perot, Ross",Challenger,713,"12,725",D,31.12,42.79,25.44,.65,42.10,57.90,,,
+President,Massachusetts,19921103,N/A,BERKSHIRE,County,"67,746","14,726","Bush, George H.",Incumbent,"36,857","Clinton, Bill",Challenger,Reform,"15,799","Perot, Ross",Challenger,364,"21,058",D,21.74,54.40,23.32,.54,28.55,71.45,,,
+President,Massachusetts,19921103,N/A,BRISTOL,County,"211,754","52,370","Bush, George H.",Incumbent,"102,406","Clinton, Bill",Challenger,Reform,"55,845","Perot, Ross",Challenger,"1,133","46,561",D,24.73,48.36,26.37,.54,33.84,66.16,,,
+President,Massachusetts,19921103,N/A,DUKES,County,"7,888","1,827","Bush, George H.",Incumbent,"4,292","Clinton, Bill",Challenger,Reform,"1,714","Perot, Ross",Challenger,55,"2,465",D,23.16,54.41,21.73,.70,29.86,70.14,,,
+President,Massachusetts,19921103,N/A,ESSEX,County,"322,328","102,212","Bush, George H.",Incumbent,"140,593","Clinton, Bill",Challenger,Reform,"77,459","Perot, Ross",Challenger,"2,064","38,381",D,31.71,43.62,24.03,.64,42.10,57.90,,,
+President,Massachusetts,19921103,N/A,FRANKLIN,County,"35,827","8,691","Bush, George H.",Incumbent,"17,246","Clinton, Bill",Challenger,Reform,"9,596","Perot, Ross",Challenger,294,"7,650",D,24.26,48.14,26.78,.82,33.51,66.49,,,
+President,Massachusetts,19921103,N/A,HAMPDEN,County,"188,265","54,621","Bush, George H.",Incumbent,"86,026","Clinton, Bill",Challenger,Reform,"46,678","Perot, Ross",Challenger,940,"31,405",D,29.01,45.69,24.79,.50,38.84,61.16,,,
+President,Massachusetts,19921103,N/A,HAMPSHIRE,County,"70,071","15,694","Bush, George H.",Incumbent,"37,879","Clinton, Bill",Challenger,Reform,"15,705","Perot, Ross",Challenger,793,"22,174",D,22.40,54.06,22.41,1.13,29.29,70.71,,,
+President,Massachusetts,19921103,N/A,MIDDLESEX,County,"689,453","193,703","Bush, George H.",Incumbent,"343,994","Clinton, Bill",Challenger,Reform,"146,831","Perot, Ross",Challenger,"4,925","150,291",D,28.10,49.89,21.30,.71,36.02,63.98,,,
+President,Massachusetts,19921103,N/A,NANTUCKET,County,"4,216","1,158","Bush, George H.",Incumbent,"2,037","Clinton, Bill",Challenger,Reform,989,"Perot, Ross",Challenger,32,879,D,27.47,48.32,23.46,.76,36.24,63.76,,,
+President,Massachusetts,19921103,N/A,NORFOLK,County,"324,390","103,255","Bush, George H.",Incumbent,"150,488","Clinton, Bill",Challenger,Reform,"67,537","Perot, Ross",Challenger,"3,110","47,233",D,31.83,46.39,20.82,.96,40.69,59.31,,,
+President,Massachusetts,19921103,N/A,PLYMOUTH,County,"207,710","69,514","Bush, George H.",Incumbent,"79,160","Clinton, Bill",Challenger,Reform,"57,886","Perot, Ross",Challenger,"1,150","9,646",D,33.47,38.11,27.87,.55,46.76,53.24,,,
+President,Massachusetts,19921103,N/A,SUFFOLK,County,"219,273","51,378","Bush, George H.",Incumbent,"132,921","Clinton, Bill",Challenger,Reform,"32,914","Perot, Ross",Challenger,"2,060","81,543",D,23.43,60.62,15.01,.94,27.88,72.12,,,
+President,Massachusetts,19921103,N/A,WORCESTER,County,"315,782","101,984","Bush, George H.",Incumbent,"138,122","Clinton, Bill",Challenger,Reform,"74,051","Perot, Ross",Challenger,"1,625","36,138",D,32.30,43.74,23.45,.51,42.47,57.53,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Massachusetts,"2,773,700","805,049","1,318,662","630,731","19,258","513,613",D,"513,613",D,29.02,47.54,22.74,.69,37.91,62.09
+,
+,
+,

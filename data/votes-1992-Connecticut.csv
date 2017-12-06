@@ -1,0 +1,18 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,19921103,N/A,FAIRFIELD,County,"409,410","175,158","Bush, George H.",Incumbent,"160,202","Clinton, Bill",Challenger,Reform,"72,532","Perot, Ross",Challenger,"1,518","14,956",R,42.78,39.13,17.72,.37,52.23,47.77,,,
+President,Connecticut,19921103,N/A,HARTFORD,County,"414,804","132,591","Bush, George H.",Incumbent,"195,495","Clinton, Bill",Challenger,Reform,"85,005","Perot, Ross",Challenger,"1,713","62,904",D,31.96,47.13,20.49,.41,40.41,59.59,,,
+President,Connecticut,19921103,N/A,LITCHFIELD,County,"93,213","34,492","Bush, George H.",Incumbent,"33,686","Clinton, Bill",Challenger,Reform,"24,639","Perot, Ross",Challenger,396,806,R,37.00,36.14,26.43,.42,50.59,49.41,,,
+President,Connecticut,19921103,N/A,MIDDLESEX,County,"81,027","24,646","Bush, George H.",Incumbent,"34,707","Clinton, Bill",Challenger,Reform,"21,306","Perot, Ross",Challenger,368,"10,061",D,30.42,42.83,26.29,.45,41.52,58.48,,,
+President,Connecticut,19921103,N/A,NEW HAVEN,County,"385,132","141,264","Bush, George H.",Incumbent,"161,374","Clinton, Bill",Challenger,Reform,"80,817","Perot, Ross",Challenger,"1,677","20,110",D,36.68,41.90,20.98,.44,46.68,53.32,,,
+President,Connecticut,19921103,N/A,NEW LONDON,County,"117,767","34,567","Bush, George H.",Incumbent,"49,808","Clinton, Bill",Challenger,Reform,"32,736","Perot, Ross",Challenger,656,"15,241",D,29.35,42.29,27.80,.56,40.97,59.03,,,
+President,Connecticut,19921103,N/A,TOLLAND,County,"66,215","20,632","Bush, George H.",Incumbent,"27,425","Clinton, Bill",Challenger,Reform,"17,930","Perot, Ross",Challenger,228,"6,793",D,31.16,41.42,27.08,.34,42.93,57.07,,,
+President,Connecticut,19921103,N/A,WINDHAM,County,"48,588","14,963","Bush, George H.",Incumbent,"19,621","Clinton, Bill",Challenger,Reform,"13,806","Perot, Ross",Challenger,198,"4,658",D,30.80,40.38,28.41,.41,43.27,56.73,,,
+President,Connecticut,19921103,N/A,Votes Not Reported by County,County,176,N/A,"Bush, George H.",Incumbent,N/A,"Clinton, Bill",Challenger,Reform,N/A,"Perot, Ross",Challenger,176,176,O,.00,.00,.00,100.00,.00,.00,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"1,616,332","578,313","682,318","348,771","6,930","104,005",D,"104,005",D,35.78,42.21,21.58,.43,45.87,54.13
+,
+,
+,

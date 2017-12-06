@@ -1,0 +1,25 @@
+PRESIDENT 1948
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Maine,19481102,N/A,ANDROSCOGGIN,County,"29,165","11,443","Dewey, Thomas E.",Challenger,"17,405","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,317,"5,962",D,39.24,59.68,.00,1.09,39.67,60.33,,,
+President,Maine,19481102,N/A,AROOSTOOK,County,"16,740","9,459","Dewey, Thomas E.",Challenger,"7,183","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,98,"2,276",R,56.51,42.91,.00,.59,56.84,43.16,,,
+President,Maine,19481102,N/A,CUMBERLAND,County,"49,885","30,284","Dewey, Thomas E.",Challenger,"18,913","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,688,"11,371",R,60.71,37.91,.00,1.38,61.56,38.44,,,
+President,Maine,19481102,N/A,FRANKLIN,County,"5,920","3,741","Dewey, Thomas E.",Challenger,"2,135","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,44,"1,606",R,63.19,36.06,.00,.74,63.67,36.33,,,
+President,Maine,19481102,N/A,HANCOCK,County,"8,830","6,863","Dewey, Thomas E.",Challenger,"1,878","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,89,"4,985",R,77.72,21.27,.00,1.01,78.52,21.48,,,
+President,Maine,19481102,N/A,KENNEBEC,County,"25,260","13,923","Dewey, Thomas E.",Challenger,"11,163","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,174,"2,760",R,55.12,44.19,.00,.69,55.50,44.50,,,
+President,Maine,19481102,N/A,KNOX,County,"7,395","5,374","Dewey, Thomas E.",Challenger,"1,924","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,97,"3,450",R,72.67,26.02,.00,1.31,73.64,26.36,,,
+President,Maine,19481102,N/A,LINCOLN,County,"5,893","4,743","Dewey, Thomas E.",Challenger,"1,095","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,55,"3,648",R,80.49,18.58,.00,.93,81.24,18.76,,,
+President,Maine,19481102,N/A,OXFORD,County,"12,782","7,444","Dewey, Thomas E.",Challenger,"5,183","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,155,"2,261",R,58.24,40.55,.00,1.21,58.95,41.05,,,
+President,Maine,19481102,N/A,PENOBSCOT,County,"27,315","16,367","Dewey, Thomas E.",Challenger,"10,705","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,243,"5,662",R,59.92,39.19,.00,.89,60.46,39.54,,,
+President,Maine,19481102,N/A,PISCATAQUIS,County,"5,438","3,227","Dewey, Thomas E.",Challenger,"2,181","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,30,"1,046",R,59.34,40.11,.00,.55,59.67,40.33,,,
+President,Maine,19481102,N/A,SAGADAHOC,County,"6,371","3,745","Dewey, Thomas E.",Challenger,"2,556","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,70,"1,189",R,58.78,40.12,.00,1.10,59.44,40.56,,,
+President,Maine,19481102,N/A,SOMERSET,County,"10,418","6,301","Dewey, Thomas E.",Challenger,"4,034","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,83,"2,267",R,60.48,38.72,.00,.80,60.97,39.03,,,
+President,Maine,19481102,N/A,WALDO,County,"5,890","4,371","Dewey, Thomas E.",Challenger,"1,469","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,50,"2,902",R,74.21,24.94,.00,.85,74.85,25.15,,,
+President,Maine,19481102,N/A,WASHINGTON,County,"8,748","5,130","Dewey, Thomas E.",Challenger,"3,538","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,80,"1,592",R,58.64,40.44,.00,.91,59.18,40.82,,,
+President,Maine,19481102,N/A,YORK,County,"38,737","17,819","Dewey, Thomas E.",Challenger,"20,554","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,364,"2,735",D,46.00,53.06,.00,.94,46.44,53.56,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Maine,"264,787","150,234","111,916",N/A,"2,637","38,318",R,"38,318",R,56.74,42.27,.00,1.00,57.31,42.69
+,
+,
+,

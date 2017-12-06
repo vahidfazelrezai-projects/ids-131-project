@@ -1,0 +1,13 @@
+PRESIDENT 2016
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,20161108,N/A,KENT,County,"74,729","36,991","Trump, Donald J.",Challenger,"33,351","Clinton, Hillary Rodham",Challenger,Independent,"2,876","Johnson, Gary E.",Challenger,"1,511","3,640",R,49.50,44.63,3.85,2.02,52.59,47.41,"The other vote was: Stein, Jill (Independent) 1,042; McMullin, Evan (Independent) 109; Scattered Write-In (Write-in) 360",,"The other vote was: Stein, Jill (Independent) 1,042; McMullin, Evan (Independent) 109; Scattered Write-In (Write-in) 360"
+President,Delaware,20161108,N/A,NEW CASTLE,County,"262,979","85,525","Trump, Donald J.",Challenger,"162,919","Clinton, Hillary Rodham",Challenger,Independent,"9,107","Johnson, Gary E.",Challenger,"5,428","77,394",D,32.52,61.95,3.46,2.06,34.42,65.58,"The other vote was: Stein, Jill (Independent) 3,956; McMullin, Evan (Independent) 514; Scattered Write-In (Write-in) 958",,"The other vote was: Stein, Jill (Independent) 3,956; McMullin, Evan (Independent) 514; Scattered Write-In (Write-in) 958"
+President,Delaware,20161108,N/A,SUSSEX,County,"106,106","62,611","Trump, Donald J.",Challenger,"39,333","Clinton, Hillary Rodham",Challenger,Independent,"2,774","Johnson, Gary E.",Challenger,"1,388","23,278",R,59.01,37.07,2.61,1.31,61.42,38.58,"The other vote was: Stein, Jill (Independent) 1,105; McMullin, Evan (Independent) 83; Scattered Write-In (Write-in) 200",,"The other vote was: Stein, Jill (Independent) 1,105; McMullin, Evan (Independent) 83; Scattered Write-In (Write-in) 200"
+President,Delaware,20161108,N/A,Votes Not Reported by County,County,0,N/A,"Trump, Donald J.",Challenger,N/A,"Clinton, Hillary Rodham",Challenger,Independent,N/A,"Johnson, Gary E.",Challenger,N/A,0,R,.00,.00,.00,.00,.00,.00,The other vote was: Scattered Write-In (Write-in) 0,,The other vote was: Scattered Write-In (Write-in) 0
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"443,814","185,127","235,603","14,757","8,327","50,476",D,"50,476",D,41.71,53.09,3.33,1.88,44.00,56.00
+,
+,
+,

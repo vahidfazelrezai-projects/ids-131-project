@@ -1,0 +1,12 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,20041102,N/A,KENT,County,"55,980","31,578","Bush, George W.",Incumbent,"23,875","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,527,"7,703",R,56.41,42.65,.00,.94,56.95,43.05,,,
+President,Delaware,20041102,N/A,NEW CASTLE,County,"241,461","93,079","Bush, George W.",Incumbent,"146,179","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,203","53,100",D,38.55,60.54,.00,.91,38.90,61.10,,,
+President,Delaware,20041102,N/A,SUSSEX,County,"77,749","47,003","Bush, George W.",Incumbent,"30,098","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,648,"16,905",R,60.45,38.71,.00,.83,60.96,39.04,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"375,190","171,660","200,152",N/A,"3,378","28,492",D,"28,492",D,45.75,53.35,.00,.90,46.17,53.83
+,
+,
+,

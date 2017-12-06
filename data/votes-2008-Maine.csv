@@ -1,0 +1,25 @@
+PRESIDENT 2008
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Maine,20081104,N/A,ANDROSCOGGIN,County,"54,850","22,671","McCain, John S. III",Challenger,"31,017","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,162","8,346",D,41.33,56.55,.00,2.12,42.23,57.77,,,
+President,Maine,20081104,N/A,AROOSTOOK,County,"35,994","15,898","McCain, John S. III",Challenger,"19,345","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,751,"3,447",D,44.17,53.75,.00,2.09,45.11,54.89,,,
+President,Maine,20081104,N/A,CUMBERLAND,County,"164,151","56,186","McCain, John S. III",Challenger,"105,218","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"2,747","49,032",D,34.23,64.10,.00,1.67,34.81,65.19,,,
+President,Maine,20081104,N/A,FRANKLIN,County,"17,178","6,627","McCain, John S. III",Challenger,"10,113","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,438,"3,486",D,38.58,58.87,.00,2.55,39.59,60.41,,,
+President,Maine,20081104,N/A,HANCOCK,County,"32,165","12,686","McCain, John S. III",Challenger,"18,895","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,584,"6,209",D,39.44,58.74,.00,1.82,40.17,59.83,,,
+President,Maine,20081104,N/A,KENNEBEC,County,"65,986","27,482","McCain, John S. III",Challenger,"37,238","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,266","9,756",D,41.65,56.43,.00,1.92,42.46,57.54,,,
+President,Maine,20081104,N/A,KNOX,County,"22,980","8,816","McCain, John S. III",Challenger,"13,728","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,436,"4,912",D,38.36,59.74,.00,1.90,39.11,60.89,,,
+President,Maine,20081104,N/A,LINCOLN,County,"21,584","9,287","McCain, John S. III",Challenger,"11,886","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,411,"2,599",D,43.03,55.07,.00,1.90,43.86,56.14,,,
+President,Maine,20081104,N/A,OXFORD,County,"31,650","12,863","McCain, John S. III",Challenger,"17,940","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,847,"5,077",D,40.64,56.68,.00,2.68,41.76,58.24,,,
+President,Maine,20081104,N/A,PENOBSCOT,County,"80,467","37,495","McCain, John S. III",Challenger,"41,614","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,358","4,119",D,46.60,51.72,.00,1.69,47.40,52.60,,,
+President,Maine,20081104,N/A,PISCATAQUIS,County,"9,434","4,785","McCain, John S. III",Challenger,"4,430","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,219,355,R,50.72,46.96,.00,2.32,51.93,48.07,,,
+President,Maine,20081104,N/A,SAGADAHOC,County,"21,301","8,721","McCain, John S. III",Challenger,"12,152","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,428,"3,431",D,40.94,57.05,.00,2.01,41.78,58.22,,,
+President,Maine,20081104,N/A,SOMERSET,County,"25,758","11,867","McCain, John S. III",Challenger,"13,335","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,556,"1,468",D,46.07,51.77,.00,2.16,47.09,52.91,,,
+President,Maine,20081104,N/A,WALDO,County,"21,850","9,423","McCain, John S. III",Challenger,"11,967","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,460,"2,544",D,43.13,54.77,.00,2.11,44.05,55.95,,,
+President,Maine,20081104,N/A,WASHINGTON,County,"16,654","8,077","McCain, John S. III",Challenger,"8,246","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,331,169,D,48.50,49.51,.00,1.99,49.48,50.52,,,
+President,Maine,20081104,N/A,YORK,County,"109,161","42,389","McCain, John S. III",Challenger,"64,799","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,973","22,410",D,38.83,59.36,.00,1.81,39.55,60.45,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Maine,"731,163","295,273","421,923",N/A,"13,967","126,650",D,"126,650",D,40.38,57.71,.00,1.91,41.17,58.83
+,
+,
+,

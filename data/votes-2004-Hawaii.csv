@@ -1,0 +1,14 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Hawaii,20041102,N/A,HAWAII,County,"57,702","22,032","Bush, George W.",Incumbent,"35,116","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,554,"13,084",D,38.18,60.86,.00,.96,38.55,61.45,,,
+President,Hawaii,20041102,N/A,HONOLULU,County,"298,547","144,157","Bush, George W.",Incumbent,"152,500","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,890","8,343",D,48.29,51.08,.00,.63,48.59,51.41,,,
+President,Hawaii,20041102,N/A,KAUAI,County,"24,876","9,740","Bush, George W.",Incumbent,"14,916","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,220,"5,176",D,39.15,59.96,.00,.88,39.50,60.50,,,
+President,Hawaii,20041102,N/A,MAUI,County,"47,430","18,187","Bush, George W.",Incumbent,"28,803","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,440,"10,616",D,38.34,60.73,.00,.93,38.70,61.30,,,
+President,Hawaii,20041102,N/A,OVERSEAS VOTE,Absentee,458,75,"Bush, George W.",Incumbent,373,"Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,10,298,D,16.38,81.44,.00,2.18,16.74,83.26,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Hawaii,"429,013","194,191","231,708",N/A,"3,114","37,517",D,"37,517",D,45.26,54.01,.00,.73,45.60,54.40
+,
+,
+,

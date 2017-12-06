@@ -1,0 +1,14 @@
+PRESIDENT 2008
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Hawaii,20081104,N/A,HAWAII,County,"66,916","14,866","McCain, John S. III",Challenger,"50,819","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,231","35,953",D,22.22,75.94,.00,1.84,22.63,77.37,,,
+President,Hawaii,20081104,N/A,HONOLULU,County,"306,813","88,164","McCain, John S. III",Challenger,"214,239","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"4,410","126,075",D,28.74,69.83,.00,1.44,29.15,70.85,,,
+President,Hawaii,20081104,N/A,KAUAI,County,"27,224","6,245","McCain, John S. III",Challenger,"20,416","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,563,"14,171",D,22.94,74.99,.00,2.07,23.42,76.58,,,
+President,Hawaii,20081104,N/A,MAUI,County,"51,789","11,154","McCain, John S. III",Challenger,"39,727","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,908,"28,573",D,21.54,76.71,.00,1.75,21.92,78.08,,,
+President,Hawaii,20081104,N/A,OVERSEAS VOTE,Absentee,826,137,"McCain, John S. III",Challenger,670,"Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,19,533,D,16.59,81.11,.00,2.30,16.98,83.02,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Hawaii,"453,568","120,566","325,871",N/A,"7,131","205,305",D,"205,305",D,26.58,71.85,.00,1.57,27.01,72.99
+,
+,
+,

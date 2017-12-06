@@ -1,0 +1,24 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,19921103,N/A,APACHE,County,"18,258","4,588","Bush, George H.",Incumbent,"11,218","Clinton, Bill",Challenger,Reform,"1,979","Perot, Ross",Challenger,473,"6,630",D,25.13,61.44,10.84,2.59,29.03,70.97,,,
+President,Arizona,19921103,N/A,COCHISE,County,"33,150","12,202","Bush, George H.",Incumbent,"12,701","Clinton, Bill",Challenger,Reform,"7,857","Perot, Ross",Challenger,390,499,D,36.81,38.31,23.70,1.18,49.00,51.00,,,
+President,Arizona,19921103,N/A,COCONINO,County,"42,618","13,769","Bush, George H.",Incumbent,"18,888","Clinton, Bill",Challenger,Reform,"9,363","Perot, Ross",Challenger,598,"5,119",D,32.31,44.32,21.97,1.40,42.16,57.84,,,
+President,Arizona,19921103,N/A,GILA,County,"18,478","5,781","Bush, George H.",Incumbent,"7,571","Clinton, Bill",Challenger,Reform,"4,694","Perot, Ross",Challenger,432,"1,790",D,31.29,40.97,25.40,2.34,43.30,56.70,,,
+President,Arizona,19921103,N/A,GRAHAM,County,"9,699","4,169","Bush, George H.",Incumbent,"3,391","Clinton, Bill",Challenger,Reform,"1,860","Perot, Ross",Challenger,279,778,R,42.98,34.96,19.18,2.88,55.15,44.85,,,
+President,Arizona,19921103,N/A,GREENLEE,County,"3,962","1,451","Bush, George H.",Incumbent,"1,695","Clinton, Bill",Challenger,Reform,794,"Perot, Ross",Challenger,22,244,D,36.62,42.78,20.04,.56,46.12,53.88,,,
+President,Arizona,19921103,N/A,LA PAZ,County,"4,961","1,599","Bush, George H.",Incumbent,"1,808","Clinton, Bill",Challenger,Reform,"1,488","Perot, Ross",Challenger,66,209,D,32.23,36.44,29.99,1.33,46.93,53.07,,,
+President,Arizona,19921103,N/A,MARICOPA,County,"876,832","360,049","Bush, George H.",Incumbent,"285,457","Clinton, Bill",Challenger,Reform,"221,475","Perot, Ross",Challenger,"9,851","74,592",R,41.06,32.56,25.26,1.12,55.78,44.22,,,
+President,Arizona,19921103,N/A,MOHAVE,County,"40,616","13,684","Bush, George H.",Incumbent,"13,255","Clinton, Bill",Challenger,Reform,"12,706","Perot, Ross",Challenger,971,429,R,33.69,32.63,31.28,2.39,50.80,49.20,,,
+President,Arizona,19921103,N/A,NAVAJO,County,"24,638","7,994","Bush, George H.",Incumbent,"10,882","Clinton, Bill",Challenger,Reform,"4,787","Perot, Ross",Challenger,975,"2,888",D,32.45,44.17,19.43,3.96,42.35,57.65,,,
+President,Arizona,19921103,N/A,PIMA,County,"281,484","97,036","Bush, George H.",Incumbent,"128,569","Clinton, Bill",Challenger,Reform,"53,925","Perot, Ross",Challenger,"1,954","31,533",D,34.47,45.68,19.16,.69,43.01,56.99,,,
+President,Arizona,19921103,N/A,PINAL,County,"36,739","11,669","Bush, George H.",Incumbent,"15,468","Clinton, Bill",Challenger,Reform,"9,231","Perot, Ross",Challenger,371,"3,799",D,31.76,42.10,25.13,1.01,43.00,57.00,,,
+President,Arizona,19921103,N/A,SANTA CRUZ,County,"8,080","3,024","Bush, George H.",Incumbent,"3,512","Clinton, Bill",Challenger,Reform,"1,447","Perot, Ross",Challenger,97,488,D,37.43,43.47,17.91,1.20,46.27,53.73,,,
+President,Arizona,19921103,N/A,YAVAPAI,County,"59,415","23,419","Bush, George H.",Incumbent,"18,268","Clinton, Bill",Challenger,Reform,"16,409","Perot, Ross",Challenger,"1,319","5,151",R,39.42,30.75,27.62,2.22,56.18,43.82,,,
+President,Arizona,19921103,N/A,YUMA,County,"28,045","11,652","Bush, George H.",Incumbent,"10,367","Clinton, Bill",Challenger,Reform,"5,726","Perot, Ross",Challenger,300,"1,285",R,41.55,36.97,20.42,1.07,52.92,47.08,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"1,486,975","572,086","543,050","353,741","18,098","29,036",R,"29,036",R,38.47,36.52,23.79,1.22,51.30,48.70
+,
+,
+,

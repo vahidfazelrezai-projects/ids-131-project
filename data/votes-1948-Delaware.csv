@@ -1,0 +1,12 @@
+PRESIDENT 1948
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,19481102,N/A,KENT,County,"16,790","8,501","Dewey, Thomas E.",Challenger,"8,174","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,115,327,R,50.63,48.68,.00,.68,50.98,49.02,,,
+President,Delaware,19481102,N/A,NEW CASTLE,County,"97,001","47,451","Dewey, Thomas E.",Challenger,"48,117","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"1,433",666,D,48.92,49.60,.00,1.48,49.65,50.35,,,
+President,Delaware,19481102,N/A,SUSSEX,County,"25,282","13,636","Dewey, Thomas E.",Challenger,"11,522","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,124,"2,114",R,53.94,45.57,.00,.49,54.20,45.80,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"139,073","69,588","67,813",N/A,"1,672","1,775",R,"1,775",R,50.04,48.76,.00,1.20,50.65,49.35
+,
+,
+,

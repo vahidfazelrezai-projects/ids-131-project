@@ -1,0 +1,25 @@
+PRESIDENT 1956
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Maine,19561104,N/A,ANDROSCOGGIN,County,"36,227","20,385","Eisenhower, Dwight D.",Incumbent,"15,842","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"4,543",R,56.27,43.73,.00,.00,56.27,43.73,,,
+President,Maine,19561104,N/A,AROOSTOOK,County,"22,090","16,001","Eisenhower, Dwight D.",Incumbent,"6,089","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"9,912",R,72.44,27.56,.00,.00,72.44,27.56,,,
+President,Maine,19561104,N/A,CUMBERLAND,County,"69,134","49,696","Eisenhower, Dwight D.",Incumbent,"19,438","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"30,258",R,71.88,28.12,.00,.00,71.88,28.12,,,
+President,Maine,19561104,N/A,FRANKLIN,County,"7,987","6,307","Eisenhower, Dwight D.",Incumbent,"1,680","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"4,627",R,78.97,21.03,.00,.00,78.97,21.03,,,
+President,Maine,19561104,N/A,HANCOCK,County,"13,020","11,316","Eisenhower, Dwight D.",Incumbent,"1,704","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"9,612",R,86.91,13.09,.00,.00,86.91,13.09,,,
+President,Maine,19561104,N/A,KENNEBEC,County,"34,511","23,028","Eisenhower, Dwight D.",Incumbent,"11,483","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"11,545",R,66.73,33.27,.00,.00,66.73,33.27,,,
+President,Maine,19561104,N/A,KNOX,County,"10,903","8,866","Eisenhower, Dwight D.",Incumbent,"2,037","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"6,829",R,81.32,18.68,.00,.00,81.32,18.68,,,
+President,Maine,19561104,N/A,LINCOLN,County,"8,355","7,191","Eisenhower, Dwight D.",Incumbent,"1,164","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"6,027",R,86.07,13.93,.00,.00,86.07,13.93,,,
+President,Maine,19561104,N/A,OXFORD,County,"17,260","12,607","Eisenhower, Dwight D.",Incumbent,"4,653","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"7,954",R,73.04,26.96,.00,.00,73.04,26.96,,,
+President,Maine,19561104,N/A,PENOBSCOT,County,"36,374","27,806","Eisenhower, Dwight D.",Incumbent,"8,568","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"19,238",R,76.44,23.56,.00,.00,76.44,23.56,,,
+President,Maine,19561104,N/A,PISCATAQUIS,County,"6,877","5,336","Eisenhower, Dwight D.",Incumbent,"1,541","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"3,795",R,77.59,22.41,.00,.00,77.59,22.41,,,
+President,Maine,19561104,N/A,SAGADAHOC,County,"8,502","6,201","Eisenhower, Dwight D.",Incumbent,"2,301","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"3,900",R,72.94,27.06,.00,.00,72.94,27.06,,,
+President,Maine,19561104,N/A,SOMERSET,County,"14,590","10,471","Eisenhower, Dwight D.",Incumbent,"4,119","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"6,352",R,71.77,28.23,.00,.00,71.77,28.23,,,
+President,Maine,19561104,N/A,WALDO,County,"7,974","6,590","Eisenhower, Dwight D.",Incumbent,"1,384","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"5,206",R,82.64,17.36,.00,.00,82.64,17.36,,,
+President,Maine,19561104,N/A,WASHINGTON,County,"10,736","8,181","Eisenhower, Dwight D.",Incumbent,"2,555","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"5,626",R,76.20,23.80,.00,.00,76.20,23.80,,,
+President,Maine,19561104,N/A,YORK,County,"47,166","29,256","Eisenhower, Dwight D.",Incumbent,"17,910","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"11,346",R,62.03,37.97,.00,.00,62.03,37.97,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Maine,"351,706","249,238","102,468",N/A,N/A,"146,770",R,"146,770",R,70.87,29.13,.00,.00,70.87,29.13
+,
+,
+,

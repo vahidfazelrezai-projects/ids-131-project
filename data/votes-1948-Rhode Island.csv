@@ -1,0 +1,14 @@
+PRESIDENT 1948
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Rhode Island,19481102,N/A,BRISTOL,County,"12,982","5,343","Dewey, Thomas E.",Challenger,"7,562","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,77,"2,219",D,41.16,58.25,.00,.59,41.40,58.60,,,
+President,Rhode Island,19481102,N/A,KENT,County,"31,785","16,299","Dewey, Thomas E.",Challenger,"15,287","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,199,"1,012",R,51.28,48.10,.00,.63,51.60,48.40,,,
+President,Rhode Island,19481102,N/A,NEWPORT,County,"20,146","10,756","Dewey, Thomas E.",Challenger,"9,254","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,136,"1,502",R,53.39,45.93,.00,.68,53.75,46.25,,,
+President,Rhode Island,19481102,N/A,PROVIDENCE,County,"245,748","93,867","Dewey, Thomas E.",Challenger,"149,254","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"2,627","55,387",D,38.20,60.73,.00,1.07,38.61,61.39,,,
+President,Rhode Island,19481102,N/A,WASHINGTON,County,"17,041","9,522","Dewey, Thomas E.",Challenger,"7,379","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,140,"2,143",R,55.88,43.30,.00,.82,56.34,43.66,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Rhode Island,"327,702","135,787","188,736",N/A,"3,179","52,949",D,"52,949",D,41.44,57.59,.00,.97,41.84,58.16
+,
+,
+,

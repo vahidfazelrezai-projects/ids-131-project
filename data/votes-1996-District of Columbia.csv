@@ -1,0 +1,18 @@
+PRESIDENT 1996
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,District of Columbia,19961105,N/A,Federal Ballots,Absentee,348,33,"Dole, Robert",Challenger,302,"Clinton, Bill",Incumbent,Reform,2,"Perot, Ross",Challenger,11,269,D,9.48,86.78,.57,3.16,9.85,90.15,,,
+President,District of Columbia,19961105,N/A,Ward 1,Ward,"21,450","1,503","Dole, Robert",Challenger,"18,121","Clinton, Bill",Incumbent,Reform,426,"Perot, Ross",Challenger,"1,400","16,618",D,7.01,84.48,1.99,6.53,7.66,92.34,,,
+President,District of Columbia,19961105,N/A,Ward 2,Ward,"23,666","3,888","Dole, Robert",Challenger,"17,987","Clinton, Bill",Incumbent,Reform,610,"Perot, Ross",Challenger,"1,181","14,099",D,16.43,76.00,2.58,4.99,17.77,82.23,,,
+President,District of Columbia,19961105,N/A,Ward 3,Ward,"32,287","7,671","Dole, Robert",Challenger,"21,975","Clinton, Bill",Incumbent,Reform,817,"Perot, Ross",Challenger,"1,824","14,304",D,23.76,68.06,2.53,5.65,25.88,74.12,,,
+President,District of Columbia,19961105,N/A,Ward 4,Ward,"27,148",980,"Dole, Robert",Challenger,"25,121","Clinton, Bill",Incumbent,Reform,479,"Perot, Ross",Challenger,568,"24,141",D,3.61,92.53,1.76,2.09,3.75,96.25,,,
+President,District of Columbia,19961105,N/A,Ward 5,Ward,"23,318",744,"Dole, Robert",Challenger,"21,760","Clinton, Bill",Incumbent,Reform,394,"Perot, Ross",Challenger,420,"21,016",D,3.19,93.32,1.69,1.80,3.31,96.69,,,
+President,District of Columbia,19961105,N/A,Ward 6,Ward,"22,767","1,822","Dole, Robert",Challenger,"19,694","Clinton, Bill",Incumbent,Reform,438,"Perot, Ross",Challenger,813,"17,872",D,8.00,86.50,1.92,3.57,8.47,91.53,,,
+President,District of Columbia,19961105,N/A,Ward 7,Ward,"21,584",488,"Dole, Robert",Challenger,"20,599","Clinton, Bill",Incumbent,Reform,284,"Perot, Ross",Challenger,213,"20,111",D,2.26,95.44,1.32,.99,2.31,97.69,,,
+President,District of Columbia,19961105,N/A,Ward 8,Ward,"13,158",210,"Dole, Robert",Challenger,"12,661","Clinton, Bill",Incumbent,Reform,161,"Perot, Ross",Challenger,126,"12,451",D,1.60,96.22,1.22,.96,1.63,98.37,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,District of Columbia,"185,726","17,339","158,220","3,611","6,556","140,881",D,"140,881",D,9.34,85.19,1.94,3.53,9.88,90.12
+,
+,
+,

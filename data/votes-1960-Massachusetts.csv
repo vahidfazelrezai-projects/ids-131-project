@@ -1,0 +1,23 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Massachusetts,19601108,N/A,BARNSTABLE,County,"33,372","20,900","Nixon, Richard M.",Challenger,"12,423","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,49,"8,477",R,62.63,37.23,.00,.15,62.72,37.28,,,
+President,Massachusetts,19601108,N/A,BERKSHIRE,County,"68,629","27,335","Nixon, Richard M.",Challenger,"41,132","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,162,"13,797",D,39.83,59.93,.00,.24,39.92,60.08,,,
+President,Massachusetts,19601108,N/A,BRISTOL,County,"194,722","64,290","Nixon, Richard M.",Challenger,"130,049","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,383,"65,759",D,33.02,66.79,.00,.20,33.08,66.92,,,
+President,Massachusetts,19601108,N/A,DUKES,County,"3,286","1,998","Nixon, Richard M.",Challenger,"1,282","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,6,716,R,60.80,39.01,.00,.18,60.91,39.09,,,
+President,Massachusetts,19601108,N/A,ESSEX,County,"295,081","126,599","Nixon, Richard M.",Challenger,"167,875","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,607,"41,276",D,42.90,56.89,.00,.21,42.99,57.01,,,
+President,Massachusetts,19601108,N/A,FRANKLIN,County,"28,011","15,682","Nixon, Richard M.",Challenger,"12,282","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,47,"3,400",R,55.99,43.85,.00,.17,56.08,43.92,,,
+President,Massachusetts,19601108,N/A,HAMPDEN,County,"193,828","72,054","Nixon, Richard M.",Challenger,"121,061","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,713,"49,007",D,37.17,62.46,.00,.37,37.31,62.69,,,
+President,Massachusetts,19601108,N/A,HAMPSHIRE,County,"45,096","19,346","Nixon, Richard M.",Challenger,"25,667","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,83,"6,321",D,42.90,56.92,.00,.18,42.98,57.02,,,
+President,Massachusetts,19601108,N/A,MIDDLESEX,County,"603,516","246,126","Nixon, Richard M.",Challenger,"356,130","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,"1,260","110,004",D,40.78,59.01,.00,.21,40.87,59.13,,,
+President,Massachusetts,19601108,N/A,NANTUCKET,County,"1,919","1,219","Nixon, Richard M.",Challenger,698,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,2,521,R,63.52,36.37,.00,.10,63.59,36.41,,,
+President,Massachusetts,19601108,N/A,NORFOLK,County,"257,721","121,744","Nixon, Richard M.",Challenger,"135,474","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,503,"13,730",D,47.24,52.57,.00,.20,47.33,52.67,,,
+President,Massachusetts,19601108,N/A,PLYMOUTH,County,"118,349","60,977","Nixon, Richard M.",Challenger,"57,175","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,197,"3,802",R,51.52,48.31,.00,.17,51.61,48.39,,,
+President,Massachusetts,19601108,N/A,SUFFOLK,County,"339,617","85,750","Nixon, Richard M.",Challenger,"252,823","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,"1,044","167,073",D,25.25,74.44,.00,.31,25.33,74.67,,,
+President,Massachusetts,19601108,N/A,WORCESTER,County,"286,333","112,730","Nixon, Richard M.",Challenger,"173,103","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,500,"60,373",D,39.37,60.46,.00,.17,39.44,60.56,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Massachusetts,"2,469,480","976,750","1,487,174",N/A,"5,556","510,424",D,"510,424",D,39.55,60.22,.00,.22,39.64,60.36
+,
+,
+,

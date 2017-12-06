@@ -1,0 +1,19 @@
+PRESIDENT 2008
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,New Hampshire,20081104,N/A,BELKNAP,County,"33,614","16,402","McCain, John S. III",Challenger,"16,796","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,416,394,D,48.80,49.97,.00,1.24,49.41,50.59,,,
+President,New Hampshire,20081104,N/A,CARROLL,County,"29,056","13,387","McCain, John S. III",Challenger,"15,221","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,448,"1,834",D,46.07,52.39,.00,1.54,46.79,53.21,,,
+President,New Hampshire,20081104,N/A,CHESHIRE,County,"42,823","15,205","McCain, John S. III",Challenger,"26,971","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,647,"11,766",D,35.51,62.98,.00,1.51,36.05,63.95,,,
+President,New Hampshire,20081104,N/A,COOS,County,"16,348","6,558","McCain, John S. III",Challenger,"9,532","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,258,"2,974",D,40.11,58.31,.00,1.58,40.76,59.24,,,
+President,New Hampshire,20081104,N/A,GRAFTON,County,"49,890","17,687","McCain, John S. III",Challenger,"31,446","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,757,"13,759",D,35.45,63.03,.00,1.52,36.00,64.00,,,
+President,New Hampshire,20081104,N/A,HILLSBOROUGH,County,"204,709","97,178","McCain, John S. III",Challenger,"104,820","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"2,711","7,642",D,47.47,51.20,.00,1.32,48.11,51.89,,,
+President,New Hampshire,20081104,N/A,MERRIMACK,County,"80,106","34,010","McCain, John S. III",Challenger,"45,078","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"1,018","11,068",D,42.46,56.27,.00,1.27,43.00,57.00,,,
+President,New Hampshire,20081104,N/A,ROCKINGHAM,County,"167,822","81,917","McCain, John S. III",Challenger,"83,723","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,"2,182","1,806",D,48.81,49.89,.00,1.30,49.45,50.55,,,
+President,New Hampshire,20081104,N/A,STRAFFORD,County,"63,848","25,021","McCain, John S. III",Challenger,"37,990","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,837,"12,969",D,39.19,59.50,.00,1.31,39.71,60.29,,,
+President,New Hampshire,20081104,N/A,SULLIVAN,County,"22,754","9,169","McCain, John S. III",Challenger,"13,249","Obama, Barack H.",Challenger,N/A,N/A,N/A,N/A,336,"4,080",D,40.30,58.23,.00,1.48,40.90,59.10,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,New Hampshire,"710,970","316,534","384,826",N/A,"9,610","68,292",D,"68,292",D,44.52,54.13,.00,1.35,45.13,54.87
+,
+,
+,

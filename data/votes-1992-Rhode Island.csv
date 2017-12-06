@@ -1,0 +1,15 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Rhode Island,19921103,N/A,BRISTOL,County,"24,911","8,208","Bush, George H.",Incumbent,"11,414","Clinton, Bill",Challenger,Reform,"5,132","Perot, Ross",Challenger,157,"3,206",D,32.95,45.82,20.60,.63,41.83,58.17,,,
+President,Rhode Island,19921103,N/A,KENT,County,"82,425","25,217","Bush, George H.",Incumbent,"35,934","Clinton, Bill",Challenger,Reform,"20,690","Perot, Ross",Challenger,584,"10,717",D,30.59,43.60,25.10,.71,41.24,58.76,,,
+President,Rhode Island,19921103,N/A,NEWPORT,County,"39,644","12,386","Bush, George H.",Incumbent,"17,584","Clinton, Bill",Challenger,Reform,"9,366","Perot, Ross",Challenger,308,"5,198",D,31.24,44.35,23.63,.78,41.33,58.67,,,
+President,Rhode Island,19921103,N/A,PROVIDENCE,County,"253,441","69,579","Bush, George H.",Incumbent,"125,358","Clinton, Bill",Challenger,Reform,"56,575","Perot, Ross",Challenger,"1,929","55,779",D,27.45,49.46,22.32,.76,35.69,64.31,,,
+President,Rhode Island,19921103,N/A,WASHINGTON,County,"52,944","16,211","Bush, George H.",Incumbent,"23,009","Clinton, Bill",Challenger,Reform,"13,282","Perot, Ross",Challenger,442,"6,798",D,30.62,43.46,25.09,.83,41.33,58.67,,,
+President,Rhode Island,19921103,N/A,Votes Not Reported by County,County,112,N/A,"Bush, George H.",Incumbent,N/A,"Clinton, Bill",Challenger,Reform,N/A,"Perot, Ross",Challenger,112,112,O,.00,.00,.00,100.00,.00,.00,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Rhode Island,"453,477","131,601","213,299","105,045","3,532","81,698",D,"81,698",D,29.02,47.04,23.16,.78,38.16,61.84
+,
+,
+,

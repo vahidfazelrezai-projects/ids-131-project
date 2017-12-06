@@ -1,0 +1,17 @@
+PRESIDENT 1948
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,19481102,N/A,FAIRFIELD,County,"217,072","118,636","Dewey, Thomas E.",Challenger,"90,767","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"7,669","27,869",R,54.65,41.81,.00,3.53,56.65,43.35,,,
+President,Connecticut,19481102,N/A,HARTFORD,County,"235,293","105,262","Dewey, Thomas E.",Challenger,"124,874","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"5,157","19,612",D,44.74,53.07,.00,2.19,45.74,54.26,,,
+President,Connecticut,19481102,N/A,LITCHFIELD,County,"46,299","26,848","Dewey, Thomas E.",Challenger,"18,628","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,823,"8,220",R,57.99,40.23,.00,1.78,59.04,40.96,,,
+President,Connecticut,19481102,N/A,MIDDLESEX,County,"31,265","16,119","Dewey, Thomas E.",Challenger,"14,609","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,537,"1,510",R,51.56,46.73,.00,1.72,52.46,47.54,,,
+President,Connecticut,19481102,N/A,NEW HAVEN,County,"248,993","120,769","Dewey, Thomas E.",Challenger,"121,591","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"6,633",822,D,48.50,48.83,.00,2.66,49.83,50.17,,,
+President,Connecticut,19481102,N/A,NEW LONDON,County,"57,814","27,416","Dewey, Thomas E.",Challenger,"29,425","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,973,"2,009",D,47.42,50.90,.00,1.68,48.23,51.77,,,
+President,Connecticut,19481102,N/A,TOLLAND,County,"17,329","9,012","Dewey, Thomas E.",Challenger,"7,970","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,347,"1,042",R,52.01,45.99,.00,2.00,53.07,46.93,,,
+President,Connecticut,19481102,N/A,WINDHAM,County,"29,453","13,692","Dewey, Thomas E.",Challenger,"15,433","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,328,"1,741",D,46.49,52.40,.00,1.11,47.01,52.99,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"883,518","437,754","423,297",N/A,"22,467","14,457",R,"14,457",R,49.55,47.91,.00,2.54,50.84,49.16
+,
+,
+,

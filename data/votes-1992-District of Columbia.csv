@@ -1,0 +1,18 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,District of Columbia,19921103,N/A,Federal Ballots,Absentee,435,61,"Bush, George H.",Incumbent,343,"Clinton, Bill",Challenger,Reform,26,"Perot, Ross",Challenger,5,282,D,14.02,78.85,5.98,1.15,15.10,84.90,,,
+President,District of Columbia,19921103,N/A,Ward 1,Ward,"26,488","1,892","Bush, George H.",Incumbent,"22,832","Clinton, Bill",Challenger,Reform,"1,112","Perot, Ross",Challenger,652,"20,940",D,7.14,86.20,4.20,2.46,7.65,92.35,,,
+President,District of Columbia,19921103,N/A,Ward 2,Ward,"28,512","4,157","Bush, George H.",Incumbent,"22,143","Clinton, Bill",Challenger,Reform,"1,692","Perot, Ross",Challenger,520,"17,986",D,14.58,77.66,5.93,1.82,15.81,84.19,,,
+President,District of Columbia,19921103,N/A,Ward 3,Ward,"38,007","8,001","Bush, George H.",Incumbent,"26,906","Clinton, Bill",Challenger,Reform,"2,606","Perot, Ross",Challenger,494,"18,905",D,21.05,70.79,6.86,1.30,22.92,77.08,,,
+President,District of Columbia,19921103,N/A,Ward 4,Ward,"32,932","1,650","Bush, George H.",Incumbent,"29,457","Clinton, Bill",Challenger,Reform,"1,068","Perot, Ross",Challenger,757,"27,807",D,5.01,89.45,3.24,2.30,5.30,94.70,,,
+President,District of Columbia,19921103,N/A,Ward 5,Ward,"29,034","1,352","Bush, George H.",Incumbent,"26,243","Clinton, Bill",Challenger,Reform,814,"Perot, Ross",Challenger,625,"24,891",D,4.66,90.39,2.80,2.15,4.90,95.10,,,
+President,District of Columbia,19921103,N/A,Ward 6,Ward,"28,360","2,115","Bush, George H.",Incumbent,"24,329","Clinton, Bill",Challenger,Reform,"1,294","Perot, Ross",Challenger,622,"22,214",D,7.46,85.79,4.56,2.19,8.00,92.00,,,
+President,District of Columbia,19921103,N/A,Ward 7,Ward,"26,985",924,"Bush, George H.",Incumbent,"24,882","Clinton, Bill",Challenger,Reform,638,"Perot, Ross",Challenger,541,"23,958",D,3.42,92.21,2.36,2.00,3.58,96.42,,,
+President,District of Columbia,19921103,N/A,Ward 8,Ward,"16,819",546,"Bush, George H.",Incumbent,"15,484","Clinton, Bill",Challenger,Reform,431,"Perot, Ross",Challenger,358,"14,938",D,3.25,92.06,2.56,2.13,3.41,96.59,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,District of Columbia,"227,572","20,698","192,619","9,681","4,574","171,921",D,"171,921",D,9.10,84.64,4.25,2.01,9.70,90.30
+,
+,
+,

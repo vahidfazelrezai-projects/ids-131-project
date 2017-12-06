@@ -1,0 +1,23 @@
+PRESIDENT 1948
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Massachusetts,19481102,N/A,BARNSTABLE,County,"19,490","14,633","Dewey, Thomas E.",Challenger,"4,616","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,241,"10,017",R,75.08,23.68,.00,1.24,76.02,23.98,,,
+President,Massachusetts,19481102,N/A,BERKSHIRE,County,"59,267","27,482","Dewey, Thomas E.",Challenger,"30,668","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"1,117","3,186",D,46.37,51.75,.00,1.88,47.26,52.74,,,
+President,Massachusetts,19481102,N/A,BRISTOL,County,"172,551","63,216","Dewey, Thomas E.",Challenger,"106,741","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"2,594","43,525",D,36.64,61.86,.00,1.50,37.20,62.80,,,
+President,Massachusetts,19481102,N/A,DUKES,County,"2,484","1,731","Dewey, Thomas E.",Challenger,720,"Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,33,"1,011",R,69.69,28.99,.00,1.33,70.62,29.38,,,
+President,Massachusetts,19481102,N/A,ESSEX,County,"246,371","108,894","Dewey, Thomas E.",Challenger,"132,016","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"5,461","23,122",D,44.20,53.58,.00,2.22,45.20,54.80,,,
+President,Massachusetts,19481102,N/A,FRANKLIN,County,"24,373","14,919","Dewey, Thomas E.",Challenger,"9,231","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,223,"5,688",R,61.21,37.87,.00,.91,61.78,38.22,,,
+President,Massachusetts,19481102,N/A,HAMPDEN,County,"167,720","70,256","Dewey, Thomas E.",Challenger,"94,609","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"2,855","24,353",D,41.89,56.41,.00,1.70,42.61,57.39,,,
+President,Massachusetts,19481102,N/A,HAMPSHIRE,County,"35,833","17,331","Dewey, Thomas E.",Challenger,"18,012","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,490,681,D,48.37,50.27,.00,1.37,49.04,50.96,,,
+President,Massachusetts,19481102,N/A,MIDDLESEX,County,"485,908","228,262","Dewey, Thomas E.",Challenger,"248,240","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"9,406","19,978",D,46.98,51.09,.00,1.94,47.90,52.10,,,
+President,Massachusetts,19481102,N/A,NANTUCKET,County,"1,442","1,013","Dewey, Thomas E.",Challenger,409,"Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,20,604,R,70.25,28.36,.00,1.39,71.24,28.76,,,
+President,Massachusetts,19481102,N/A,NORFOLK,County,"176,737","100,280","Dewey, Thomas E.",Challenger,"72,327","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"4,130","27,953",R,56.74,40.92,.00,2.34,58.10,41.90,,,
+President,Massachusetts,19481102,N/A,PLYMOUTH,County,"85,146","48,925","Dewey, Thomas E.",Challenger,"34,765","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"1,456","14,160",R,57.46,40.83,.00,1.71,58.46,41.54,,,
+President,Massachusetts,19481102,N/A,SUFFOLK,County,"385,067","105,671","Dewey, Thomas E.",Challenger,"265,611","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"13,785","159,940",D,27.44,68.98,.00,3.58,28.46,71.54,,,
+President,Massachusetts,19481102,N/A,WORCESTER,County,"244,757","106,757","Dewey, Thomas E.",Challenger,"133,823","Truman, Harry S.",Incumbent,States Rights,N/A,"Thurmond, James Strom",Challenger,"4,177","27,066",D,43.62,54.68,.00,1.71,44.37,55.63,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Massachusetts,"2,107,146","909,370","1,151,788",N/A,"45,988","242,418",D,"242,418",D,43.16,54.66,.00,2.18,44.12,55.88
+,
+,
+,

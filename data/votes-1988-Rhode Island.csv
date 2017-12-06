@@ -1,0 +1,15 @@
+PRESIDENT 1988
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Rhode Island,19881108,N/A,BRISTOL,County,"21,883","10,626","Bush, George H.",Challenger,"11,168","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,89,542,D,48.56,51.04,.00,.41,48.76,51.24,,,
+President,Rhode Island,19881108,N/A,KENT,County,"71,801","34,314","Bush, George H.",Challenger,"37,221","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,266,"2,907",D,47.79,51.84,.00,.37,47.97,52.03,,,
+President,Rhode Island,19881108,N/A,NEWPORT,County,"34,664","16,923","Bush, George H.",Challenger,"17,597","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,144,674,D,48.82,50.76,.00,.42,49.02,50.98,,,
+President,Rhode Island,19881108,N/A,PROVIDENCE,County,"231,159","94,248","Bush, George H.",Challenger,"135,927","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,984,"41,679",D,40.77,58.80,.00,.43,40.95,59.05,,,
+President,Rhode Island,19881108,N/A,WASHINGTON,County,"45,062","21,650","Bush, George H.",Challenger,"23,210","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,202,"1,560",D,48.04,51.51,.00,.45,48.26,51.74,,,
+President,Rhode Island,19881108,N/A,Votes Not Reported by County,County,51,N/A,"Bush, George H.",Challenger,N/A,"Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,51,51,O,.00,.00,.00,100.00,.00,.00,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Rhode Island,"404,620","177,761","225,123",N/A,"1,736","47,362",D,"47,362",D,43.93,55.64,.00,.43,44.12,55.88
+,
+,
+,

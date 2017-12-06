@@ -1,0 +1,12 @@
+PRESIDENT 1972
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,19721107,N/A,KENT,County,"28,556","17,712","Nixon, Richard M.",Incumbent,"10,463","McGovern, George S.",Challenger,N/A,N/A,N/A,N/A,381,"7,249",R,62.03,36.64,.00,1.33,62.86,37.14,"In Texas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Texas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+President,Delaware,19721107,N/A,NEW CASTLE,County,"172,956","100,681","Nixon, Richard M.",Incumbent,"70,190","McGovern, George S.",Challenger,N/A,N/A,N/A,N/A,"2,085","30,491",R,58.21,40.58,.00,1.21,58.92,41.08,"In Texas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Texas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+President,Delaware,19721107,N/A,SUSSEX,County,"34,004","21,964","Nixon, Richard M.",Incumbent,"11,630","McGovern, George S.",Challenger,N/A,N/A,N/A,N/A,410,"10,334",R,64.59,34.20,.00,1.21,65.38,34.62,"In Texas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.","In Texas, to account for discrepancies between reported county-by-county figures and reported state totals, and extra row of data, ""Votes not reported by county,"" has been included.",
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"235,516","140,357","92,283",N/A,"2,876","48,074",R,"48,074",R,59.60,39.18,.00,1.22,60.33,39.67
+,
+,
+,

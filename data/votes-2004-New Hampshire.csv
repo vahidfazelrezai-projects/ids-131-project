@@ -1,0 +1,19 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,New Hampshire,20041102,N/A,BELKNAP,County,"32,298","17,920","Bush, George W.",Incumbent,"14,080","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,298,"3,840",R,55.48,43.59,.00,.92,56.00,44.00,,,
+President,New Hampshire,20041102,N/A,CARROLL,County,"28,222","14,614","Bush, George W.",Incumbent,"13,319","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,289,"1,295",R,51.78,47.19,.00,1.02,52.32,47.68,,,
+President,New Hampshire,20041102,N/A,CHESHIRE,County,"41,347","16,463","Bush, George W.",Incumbent,"24,438","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,446,"7,975",D,39.82,59.10,.00,1.08,40.25,59.75,,,
+President,New Hampshire,20041102,N/A,COOS,County,"16,925","8,143","Bush, George W.",Incumbent,"8,585","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,197,442,D,48.11,50.72,.00,1.16,48.68,51.32,,,
+President,New Hampshire,20041102,N/A,GRAFTON,County,"46,971","20,277","Bush, George W.",Incumbent,"26,180","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,514,"5,903",D,43.17,55.74,.00,1.09,43.65,56.35,,,
+President,New Hampshire,20041102,N/A,HILLSBOROUGH,County,"195,427","99,724","Bush, George W.",Incumbent,"94,121","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,582","5,603",R,51.03,48.16,.00,.81,51.45,48.55,,,
+President,New Hampshire,20041102,N/A,MERRIMACK,County,"76,647","36,060","Bush, George W.",Incumbent,"39,975","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,612,"3,915",D,47.05,52.15,.00,.80,47.43,52.57,,,
+President,New Hampshire,20041102,N/A,ROCKINGHAM,County,"158,816","82,069","Bush, George W.",Incumbent,"75,437","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,310","6,632",R,51.68,47.50,.00,.82,52.11,47.89,,,
+President,New Hampshire,20041102,N/A,STRAFFORD,County,"59,281","25,825","Bush, George W.",Incumbent,"32,942","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,514,"7,117",D,43.56,55.57,.00,.87,43.94,56.06,,,
+President,New Hampshire,20041102,N/A,SULLIVAN,County,"21,804","10,142","Bush, George W.",Incumbent,"11,434","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,228,"1,292",D,46.51,52.44,.00,1.05,47.01,52.99,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,New Hampshire,"677,738","331,237","340,511",N/A,"5,990","9,274",D,"9,274",D,48.87,50.24,.00,.88,49.31,50.69
+,
+,
+,

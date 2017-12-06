@@ -1,0 +1,12 @@
+PRESIDENT 1988
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Delaware,19881108,N/A,KENT,County,"33,113","19,923","Bush, George H.",Challenger,"12,996","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,194,"6,927",R,60.17,39.25,.00,.59,60.52,39.48,,,
+President,Delaware,19881108,N/A,NEW CASTLE,County,"173,003","92,587","Bush, George H.",Challenger,"79,147","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,"1,269","13,440",R,53.52,45.75,.00,.73,53.91,46.09,,,
+President,Delaware,19881108,N/A,SUSSEX,County,"43,775","27,129","Bush, George H.",Challenger,"16,504","Dukakis, Michael S.",Challenger,N/A,N/A,N/A,N/A,142,"10,625",R,61.97,37.70,.00,.32,62.18,37.82,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Delaware,"249,891","139,639","108,647",N/A,"1,605","30,992",R,"30,992",R,55.88,43.48,.00,.64,56.24,43.76
+,
+,
+,

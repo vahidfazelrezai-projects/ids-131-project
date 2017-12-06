@@ -1,0 +1,24 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,19601108,N/A,APACHE,County,"3,030","1,568","Nixon, Richard M.",Challenger,"1,459","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,3,109,R,51.75,48.15,.00,.10,51.80,48.20,,,
+President,Arizona,19601108,N/A,COCHISE,County,"15,007","7,572","Nixon, Richard M.",Challenger,"7,419","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,16,153,R,50.46,49.44,.00,.11,50.51,49.49,,,
+President,Arizona,19601108,N/A,COCONINO,County,"8,944","4,870","Nixon, Richard M.",Challenger,"4,065","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,9,805,R,54.45,45.45,.00,.10,54.50,45.50,,,
+President,Arizona,19601108,N/A,GILA,County,"9,065","3,806","Nixon, Richard M.",Challenger,"5,251","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,8,"1,445",D,41.99,57.93,.00,.09,42.02,57.98,,,
+President,Arizona,19601108,N/A,GRAHAM,County,"4,583","2,491","Nixon, Richard M.",Challenger,"2,091","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,1,400,R,54.35,45.63,.00,.02,54.36,45.64,,,
+President,Arizona,19601108,N/A,GREENLEE,County,"4,386","1,313","Nixon, Richard M.",Challenger,"3,069","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,4,"1,756",D,29.94,69.97,.00,.09,29.96,70.04,,,
+President,Arizona,19601108,N/A,LA PAZ,County,0,N/A,"Nixon, Richard M.",Challenger,N/A,"Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,0,R,.00,.00,.00,.00,.00,.00,,,
+President,Arizona,19601108,N/A,MARICOPA,County,"214,059","127,090","Nixon, Richard M.",Challenger,"86,834","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,135,"40,256",R,59.37,40.57,.00,.06,59.41,40.59,,,
+President,Arizona,19601108,N/A,MOHAVE,County,"2,952","1,641","Nixon, Richard M.",Challenger,"1,303","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,8,338,R,55.59,44.14,.00,.27,55.74,44.26,,,
+President,Arizona,19601108,N/A,NAVAJO,County,"7,151","4,090","Nixon, Richard M.",Challenger,"3,052","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,9,"1,038",R,57.19,42.68,.00,.13,57.27,42.73,,,
+President,Arizona,19601108,N/A,PIMA,County,"89,144","46,734","Nixon, Richard M.",Challenger,"42,171","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,239,"4,563",R,52.43,47.31,.00,.27,52.57,47.43,,,
+President,Arizona,19601108,N/A,PINAL,County,"13,684","6,441","Nixon, Richard M.",Challenger,"7,232","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,11,791,D,47.07,52.85,.00,.08,47.11,52.89,,,
+President,Arizona,19601108,N/A,SANTA CRUZ,County,"3,135","1,265","Nixon, Richard M.",Challenger,"1,868","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,2,603,D,40.35,59.59,.00,.06,40.38,59.62,,,
+President,Arizona,19601108,N/A,YAVAPAI,County,"11,147","6,813","Nixon, Richard M.",Challenger,"4,325","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,9,"2,488",R,61.12,38.80,.00,.08,61.17,38.83,,,
+President,Arizona,19601108,N/A,YUMA,County,"12,204","5,547","Nixon, Richard M.",Challenger,"6,642","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,15,"1,095",D,45.45,54.42,.00,.12,45.51,54.49,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"398,491","221,241","176,781",N/A,469,"44,460",R,"44,460",R,55.52,44.36,.00,.12,55.59,44.41
+,
+,
+,

@@ -1,0 +1,14 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Rhode Island,19601108,N/A,BRISTOL,County,"18,636","7,537","Nixon, Richard M.",Challenger,"11,099","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,562",D,40.44,59.56,.00,.00,40.44,59.56,,,
+President,Rhode Island,19601108,N/A,KENT,County,"55,006","24,344","Nixon, Richard M.",Challenger,"30,662","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"6,318",D,44.26,55.74,.00,.00,44.26,55.74,,,
+President,Rhode Island,19601108,N/A,NEWPORT,County,"27,619","11,942","Nixon, Richard M.",Challenger,"15,677","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,735",D,43.24,56.76,.00,.00,43.24,56.76,,,
+President,Rhode Island,19601108,N/A,PROVIDENCE,County,"280,043","91,028","Nixon, Richard M.",Challenger,"189,014","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,1,"97,986",D,32.51,67.49,.00,.00,32.51,67.49,,,
+President,Rhode Island,19601108,N/A,WASHINGTON,County,"24,231","12,651","Nixon, Richard M.",Challenger,"11,580","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"1,071",R,52.21,47.79,.00,.00,52.21,47.79,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Rhode Island,"405,535","147,502","258,032",N/A,1,"110,530",D,"110,530",D,36.37,63.63,.00,.00,36.37,63.63
+,
+,
+,

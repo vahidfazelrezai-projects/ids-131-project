@@ -1,0 +1,25 @@
+PRESIDENT 2004
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Maine,20041102,N/A,ANDROSCOGGIN,County,"56,067","24,519","Bush, George W.",Incumbent,"30,503","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,045","5,984",D,43.73,54.40,.00,1.86,44.56,55.44,,,
+President,Maine,20041102,N/A,AROOSTOOK,County,"37,733","17,564","Bush, George W.",Incumbent,"19,569","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,600,"2,005",D,46.55,51.86,.00,1.59,47.30,52.70,,,
+President,Maine,20041102,N/A,CUMBERLAND,County,"162,962","65,384","Bush, George W.",Incumbent,"94,846","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"2,732","29,462",D,40.12,58.20,.00,1.68,40.81,59.19,,,
+President,Maine,20041102,N/A,FRANKLIN,County,"17,257","7,378","Bush, George W.",Incumbent,"9,465","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,414,"2,087",D,42.75,54.85,.00,2.40,43.80,56.20,,,
+President,Maine,20041102,N/A,HANCOCK,County,"33,122","14,405","Bush, George W.",Incumbent,"18,048","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,669,"3,643",D,43.49,54.49,.00,2.02,44.39,55.61,,,
+President,Maine,20041102,N/A,KENNEBEC,County,"66,772","29,761","Bush, George W.",Incumbent,"35,616","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,395","5,855",D,44.57,53.34,.00,2.09,45.52,54.48,,,
+President,Maine,20041102,N/A,KNOX,County,"23,247","10,103","Bush, George W.",Incumbent,"12,690","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,454,"2,587",D,43.46,54.59,.00,1.95,44.33,55.67,,,
+President,Maine,20041102,N/A,LINCOLN,County,"22,142","10,370","Bush, George W.",Incumbent,"11,351","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,421,981,D,46.83,51.26,.00,1.90,47.74,52.26,,,
+President,Maine,20041102,N/A,OXFORD,County,"31,546","14,196","Bush, George W.",Incumbent,"16,618","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,732,"2,422",D,45.00,52.68,.00,2.32,46.07,53.93,,,
+President,Maine,20041102,N/A,PENOBSCOT,County,"82,112","40,318","Bush, George W.",Incumbent,"40,417","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,377",99,D,49.10,49.22,.00,1.68,49.94,50.06,,,
+President,Maine,20041102,N/A,PISCATAQUIS,County,"9,940","5,299","Bush, George W.",Incumbent,"4,409","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,232,890,R,53.31,44.36,.00,2.33,54.58,45.42,,,
+President,Maine,20041102,N/A,SAGADAHOC,County,"21,079","9,497","Bush, George W.",Incumbent,"11,107","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,475,"1,610",D,45.05,52.69,.00,2.25,46.09,53.91,,,
+President,Maine,20041102,N/A,SOMERSET,County,"27,108","12,953","Bush, George W.",Incumbent,"13,555","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,600,602,D,47.78,50.00,.00,2.21,48.86,51.14,,,
+President,Maine,20041102,N/A,WALDO,County,"22,322","10,309","Bush, George W.",Incumbent,"11,555","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,458,"1,246",D,46.18,51.77,.00,2.05,47.15,52.85,,,
+President,Maine,20041102,N/A,WASHINGTON,County,"17,310","8,619","Bush, George W.",Incumbent,"8,391","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,300,228,R,49.79,48.47,.00,1.73,50.67,49.33,,,
+President,Maine,20041102,N/A,YORK,County,"110,033","49,526","Bush, George W.",Incumbent,"58,702","Kerry, John F.",Challenger,N/A,N/A,N/A,N/A,"1,805","9,176",D,45.01,53.35,.00,1.64,45.76,54.24,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Maine,"740,752","330,201","396,842",N/A,"13,709","66,641",D,"66,641",D,44.58,53.57,.00,1.85,45.42,54.58
+,
+,
+,

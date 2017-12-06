@@ -1,0 +1,19 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,New Hampshire,19601108,N/A,BELKNAP,County,"14,786","9,156","Nixon, Richard M.",Challenger,"5,630","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"3,526",R,61.92,38.08,.00,.00,61.92,38.08,,,
+President,New Hampshire,19601108,N/A,CARROLL,County,"9,405","7,487","Nixon, Richard M.",Challenger,"1,918","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"5,569",R,79.61,20.39,.00,.00,79.61,20.39,,,
+President,New Hampshire,19601108,N/A,CHESHIRE,County,"20,262","11,594","Nixon, Richard M.",Challenger,"8,668","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,926",R,57.22,42.78,.00,.00,57.22,42.78,,,
+President,New Hampshire,19601108,N/A,COOS,County,"18,252","7,797","Nixon, Richard M.",Challenger,"10,455","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"2,658",D,42.72,57.28,.00,.00,42.72,57.28,,,
+President,New Hampshire,19601108,N/A,GRAFTON,County,"22,275","14,454","Nixon, Richard M.",Challenger,"7,821","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"6,633",R,64.89,35.11,.00,.00,64.89,35.11,,,
+President,New Hampshire,19601108,N/A,HILLSBOROUGH,County,"90,565","38,430","Nixon, Richard M.",Challenger,"52,135","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"13,705",D,42.43,57.57,.00,.00,42.43,57.57,,,
+President,New Hampshire,19601108,N/A,MERRIMACK,County,"33,673","20,395","Nixon, Richard M.",Challenger,"13,278","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"7,117",R,60.57,39.43,.00,.00,60.57,39.43,,,
+President,New Hampshire,19601108,N/A,ROCKINGHAM,County,"45,095","28,032","Nixon, Richard M.",Challenger,"17,063","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"10,969",R,62.16,37.84,.00,.00,62.16,37.84,,,
+President,New Hampshire,19601108,N/A,STRAFFORD,County,"27,874","13,539","Nixon, Richard M.",Challenger,"14,335","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,796,D,48.57,51.43,.00,.00,48.57,51.43,,,
+President,New Hampshire,19601108,N/A,SULLIVAN,County,"13,574","7,105","Nixon, Richard M.",Challenger,"6,469","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,636,R,52.34,47.66,.00,.00,52.34,47.66,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,New Hampshire,"295,761","157,989","137,772",N/A,N/A,"20,217",R,"20,217",R,53.42,46.58,.00,.00,53.42,46.58
+,
+,
+,

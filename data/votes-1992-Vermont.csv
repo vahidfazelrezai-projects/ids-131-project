@@ -1,0 +1,23 @@
+PRESIDENT 1992
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Vermont,19921103,N/A,ADDISON,County,"17,026","5,034","Bush, George H.",Incumbent,"8,092","Clinton, Bill",Challenger,Reform,"3,777","Perot, Ross",Challenger,123,"3,058",D,29.57,47.53,22.18,.72,38.35,61.65,,,
+President,Vermont,19921103,N/A,BENNINGTON,County,"18,216","5,895","Bush, George H.",Incumbent,"8,178","Clinton, Bill",Challenger,Reform,"4,023","Perot, Ross",Challenger,120,"2,283",D,32.36,44.89,22.08,.66,41.89,58.11,,,
+President,Vermont,19921103,N/A,CALEDONIA,County,"13,062","4,571","Bush, George H.",Incumbent,"4,948","Clinton, Bill",Challenger,Reform,"3,458","Perot, Ross",Challenger,85,377,D,34.99,37.88,26.47,.65,48.02,51.98,,,
+President,Vermont,19921103,N/A,CHITTENDEN,County,"70,121","19,093","Bush, George H.",Incumbent,"35,314","Clinton, Bill",Challenger,Reform,"15,202","Perot, Ross",Challenger,512,"16,221",D,27.23,50.36,21.68,.73,35.09,64.91,,,
+President,Vermont,19921103,N/A,ESSEX,County,"2,996","1,038","Bush, George H.",Incumbent,"1,092","Clinton, Bill",Challenger,Reform,845,"Perot, Ross",Challenger,21,54,D,34.65,36.45,28.20,.70,48.73,51.27,,,
+President,Vermont,19921103,N/A,FRANKLIN,County,"18,751","5,484","Bush, George H.",Incumbent,"8,004","Clinton, Bill",Challenger,Reform,"5,146","Perot, Ross",Challenger,117,"2,520",D,29.25,42.69,27.44,.62,40.66,59.34,,,
+President,Vermont,19921103,N/A,GRAND ISLE,County,"3,379","1,012","Bush, George H.",Incumbent,"1,444","Clinton, Bill",Challenger,Reform,893,"Perot, Ross",Challenger,30,432,D,29.95,42.73,26.43,.89,41.21,58.79,,,
+President,Vermont,19921103,N/A,LAMOILLE,County,"10,142","2,936","Bush, George H.",Incumbent,"4,459","Clinton, Bill",Challenger,Reform,"2,674","Perot, Ross",Challenger,73,"1,523",D,28.95,43.97,26.37,.72,39.70,60.30,,,
+President,Vermont,19921103,N/A,ORANGE,County,"13,410","4,249","Bush, George H.",Incumbent,"5,774","Clinton, Bill",Challenger,Reform,"3,283","Perot, Ross",Challenger,104,"1,525",D,31.69,43.06,24.48,.78,42.39,57.61,,,
+President,Vermont,19921103,N/A,ORLEANS,County,"11,513","3,572","Bush, George H.",Incumbent,"4,721","Clinton, Bill",Challenger,Reform,"3,135","Perot, Ross",Challenger,85,"1,149",D,31.03,41.01,27.23,.74,43.07,56.93,,,
+President,Vermont,19921103,N/A,RUTLAND,County,"31,144","10,963","Bush, George H.",Incumbent,"12,829","Clinton, Bill",Challenger,Reform,"7,190","Perot, Ross",Challenger,162,"1,866",D,35.20,41.19,23.09,.52,46.08,53.92,,,
+President,Vermont,19921103,N/A,WASHINGTON,County,"29,338","9,424","Bush, George H.",Incumbent,"13,452","Clinton, Bill",Challenger,Reform,"6,274","Perot, Ross",Challenger,188,"4,028",D,32.12,45.85,21.39,.64,41.20,58.80,,,
+President,Vermont,19921103,N/A,WINDHAM,County,"21,411","5,816","Bush, George H.",Incumbent,"11,414","Clinton, Bill",Challenger,Reform,"4,014","Perot, Ross",Challenger,167,"5,598",D,27.16,53.31,18.75,.78,33.76,66.24,,,
+President,Vermont,19921103,N/A,WINDSOR,County,"29,192","9,035","Bush, George H.",Incumbent,"13,871","Clinton, Bill",Challenger,Reform,"6,077","Perot, Ross",Challenger,209,"4,836",D,30.95,47.52,20.82,.72,39.44,60.56,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Vermont,"289,701","88,122","133,592","65,991","1,996","45,470",D,"45,470",D,30.42,46.11,22.78,.69,39.75,60.25
+,
+,
+,

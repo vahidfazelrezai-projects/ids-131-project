@@ -1,0 +1,24 @@
+PRESIDENT 1956
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Arizona,19561104,N/A,APACHE,County,"2,667","1,685","Eisenhower, Dwight D.",Incumbent,981,"Stevenson, Adlai E. II",Challenger,States Rights,1,"Uncommitted, NULL",Challenger,N/A,704,R,63.18,36.78,.04,.00,63.20,36.80,,,
+President,Arizona,19561104,N/A,COCHISE,County,"12,230","6,893","Eisenhower, Dwight D.",Incumbent,"5,328","Stevenson, Adlai E. II",Challenger,States Rights,9,"Uncommitted, NULL",Challenger,N/A,"1,565",R,56.36,43.57,.07,.00,56.40,43.60,,,
+President,Arizona,19561104,N/A,COCONINO,County,"6,369","4,044","Eisenhower, Dwight D.",Incumbent,"2,314","Stevenson, Adlai E. II",Challenger,States Rights,11,"Uncommitted, NULL",Challenger,N/A,"1,730",R,63.50,36.33,.17,.00,63.60,36.40,,,
+President,Arizona,19561104,N/A,GILA,County,"8,260","4,234","Eisenhower, Dwight D.",Incumbent,"4,026","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,208,R,51.26,48.74,.00,.00,51.26,48.74,,,
+President,Arizona,19561104,N/A,GRAHAM,County,"4,072","2,384","Eisenhower, Dwight D.",Incumbent,"1,688","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,696,R,58.55,41.45,.00,.00,58.55,41.45,,,
+President,Arizona,19561104,N/A,GREENLEE,County,"4,495","1,784","Eisenhower, Dwight D.",Incumbent,"2,711","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,927,D,39.69,60.31,.00,.00,39.69,60.31,,,
+President,Arizona,19561104,N/A,LA PAZ,County,0,N/A,"Eisenhower, Dwight D.",Incumbent,N/A,"Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,0,R,.00,.00,.00,.00,.00,.00,,,
+President,Arizona,19561104,N/A,MARICOPA,County,"146,341","92,140","Eisenhower, Dwight D.",Incumbent,"54,010","Stevenson, Adlai E. II",Challenger,States Rights,191,"Uncommitted, NULL",Challenger,N/A,"38,130",R,62.96,36.91,.13,.00,63.04,36.96,,,
+President,Arizona,19561104,N/A,MOHAVE,County,"2,497","1,523","Eisenhower, Dwight D.",Incumbent,968,"Stevenson, Adlai E. II",Challenger,States Rights,6,"Uncommitted, NULL",Challenger,N/A,555,R,60.99,38.77,.24,.00,61.14,38.86,,,
+President,Arizona,19561104,N/A,NAVAJO,County,"5,970","3,928","Eisenhower, Dwight D.",Incumbent,"2,033","Stevenson, Adlai E. II",Challenger,States Rights,9,"Uncommitted, NULL",Challenger,N/A,"1,895",R,65.80,34.05,.15,.00,65.89,34.11,,,
+President,Arizona,19561104,N/A,PIMA,County,"62,885","39,298","Eisenhower, Dwight D.",Incumbent,"23,536","Stevenson, Adlai E. II",Challenger,States Rights,51,"Uncommitted, NULL",Challenger,N/A,"15,762",R,62.49,37.43,.08,.00,62.54,37.46,,,
+President,Arizona,19561104,N/A,PINAL,County,"10,842","5,762","Eisenhower, Dwight D.",Incumbent,"5,063","Stevenson, Adlai E. II",Challenger,States Rights,17,"Uncommitted, NULL",Challenger,N/A,699,R,53.15,46.70,.16,.00,53.23,46.77,,,
+President,Arizona,19561104,N/A,SANTA CRUZ,County,"2,778","1,646","Eisenhower, Dwight D.",Incumbent,"1,131","Stevenson, Adlai E. II",Challenger,States Rights,1,"Uncommitted, NULL",Challenger,N/A,515,R,59.25,40.71,.04,.00,59.27,40.73,,,
+President,Arizona,19561104,N/A,YAVAPAI,County,"9,654","6,339","Eisenhower, Dwight D.",Incumbent,"3,315","Stevenson, Adlai E. II",Challenger,States Rights,N/A,"Uncommitted, NULL",Challenger,N/A,"3,024",R,65.66,34.34,.00,.00,65.66,34.34,,,
+President,Arizona,19561104,N/A,YUMA,County,"11,113","5,330","Eisenhower, Dwight D.",Incumbent,"5,776","Stevenson, Adlai E. II",Challenger,States Rights,7,"Uncommitted, NULL",Challenger,N/A,446,D,47.96,51.98,.06,.00,47.99,52.01,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Arizona,"290,173","176,990","112,880",303,N/A,"64,110",R,"64,110",R,60.99,38.90,.10,.00,61.06,38.94
+,
+,
+,

@@ -1,0 +1,17 @@
+PRESIDENT 1960
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Connecticut,19601108,N/A,FAIRFIELD,County,"314,226","167,778","Nixon, Richard M.",Challenger,"146,442","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,6,"21,336",R,53.39,46.60,.00,.00,53.40,46.60,,,
+President,Connecticut,19601108,N/A,HARTFORD,County,"331,864","136,459","Nixon, Richard M.",Challenger,"195,403","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,2,"58,944",D,41.12,58.88,.00,.00,41.12,58.88,,,
+President,Connecticut,19601108,N/A,LITCHFIELD,County,"63,108","34,043","Nixon, Richard M.",Challenger,"29,062","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,3,"4,981",R,53.94,46.05,.00,.00,53.95,46.05,,,
+President,Connecticut,19601108,N/A,MIDDLESEX,County,"44,204","22,045","Nixon, Richard M.",Challenger,"22,158","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,1,113,D,49.87,50.13,.00,.00,49.87,50.13,,,
+President,Connecticut,19601108,N/A,NEW HAVEN,County,"325,539","136,852","Nixon, Richard M.",Challenger,"188,685","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,2,"51,833",D,42.04,57.96,.00,.00,42.04,57.96,,,
+President,Connecticut,19601108,N/A,NEW LONDON,County,"78,696","38,070","Nixon, Richard M.",Challenger,"40,625","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,1,"2,555",D,48.38,51.62,.00,.00,48.38,51.62,,,
+President,Connecticut,19601108,N/A,TOLLAND,County,"29,961","15,386","Nixon, Richard M.",Challenger,"14,575","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,811,R,51.35,48.65,.00,.00,51.35,48.65,,,
+President,Connecticut,19601108,N/A,WINDHAM,County,"35,285","15,180","Nixon, Richard M.",Challenger,"20,105","Kennedy, John F.",Challenger,Unpledged Democrat,N/A,"Byrd, Harry F.",Challenger,N/A,"4,925",D,43.02,56.98,.00,.00,43.02,56.98,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Connecticut,"1,222,883","565,813","657,055",N/A,15,"91,242",D,"91,242",D,46.27,53.73,.00,.00,46.27,53.73
+,
+,
+,

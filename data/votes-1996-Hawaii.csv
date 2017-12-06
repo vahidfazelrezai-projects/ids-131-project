@@ -1,0 +1,15 @@
+PRESIDENT 1996
+,
+Office,State,RaceDate,CensusPop,Area,AreaType,TotalVotes,RepVotes,RepCandidate,RepStatus,DemVotes,DemCandidate,DemStatus,ThirdParty,ThirdVotes,ThirdCandidate,ThirdStatus,OtherVotes,PluralityVotes,PluralityParty,RepVotesTotalPercent,DemVotesTotalPercent,ThirdVotesTotalPercent,OtherVotesTotalPercent,RepVotesMajorPercent,DemVotesMajorPercent,RaceNotes,TitleNotes,OtherNotes
+President,Hawaii,19961105,N/A,HAWAII,County,"48,977","13,516","Dole, Robert",Challenger,"27,262","Clinton, Bill",Incumbent,Reform,"5,137","Perot, Ross",Challenger,"3,062","13,746",D,27.60,55.66,10.49,6.25,33.15,66.85,,,
+President,Hawaii,19961105,N/A,HONOLULU,County,"255,181","85,748","Dole, Robert",Challenger,"143,755","Clinton, Bill",Incumbent,Reform,"17,388","Perot, Ross",Challenger,"8,290","58,007",D,33.60,56.33,6.81,3.25,37.36,62.64,,,
+President,Hawaii,19961105,N/A,KAUAI,County,"21,020","5,325","Dole, Robert",Challenger,"13,357","Clinton, Bill",Incumbent,Reform,"1,568","Perot, Ross",Challenger,770,"8,032",D,25.33,63.54,7.46,3.66,28.50,71.50,,,
+President,Hawaii,19961105,N/A,MAUI,County,"34,867","9,323","Dole, Robert",Challenger,"20,600","Clinton, Bill",Incumbent,Reform,"3,264","Perot, Ross",Challenger,"1,680","11,277",D,26.74,59.08,9.36,4.82,31.16,68.84,,,
+President,Hawaii,19961105,N/A,OVERSEAS VOTE,Absentee,5,N/A,"Dole, Robert",Challenger,N/A,"Clinton, Bill",Incumbent,Reform,N/A,"Perot, Ross",Challenger,5,5,O,.00,.00,.00,100.00,.00,.00,,,
+President,Hawaii,19961105,N/A,Special Ballots,County,70,31,"Dole, Robert",Challenger,38,"Clinton, Bill",Incumbent,Reform,1,"Perot, Ross",Challenger,N/A,7,D,44.29,54.29,1.43,.00,44.93,55.07,,,
+,
+CensusPopAll,AreaAll,TotalVotesAll,RepVotesAll,DemVotesAll,ThirdVotesAll,OtherVotesAll,PluralityVotesAll,PluralityPartyAll,RepDemPluralityVotesAll,RepDemPluralityPartyAll,RepVotesTotalPercentAll,DemVotesTotalPercentAll,ThirdVotesTotalPercentAll,OtherVotesTotalPercentAll,RepVotesMajorPercentAll,DemVotesMajorPercentAll
+N/A,Hawaii,"360,120","113,943","205,012","27,358","13,807","91,069",D,"91,069",D,31.64,56.93,7.60,3.83,35.72,64.28
+,
+,
+,
